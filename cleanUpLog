@@ -1,0 +1,3792 @@
+Deleted: sha256:883fec2942b1028f2ff8d4262d31fe84631376ce0fae6a7236b5dce3948d407e
+-n 
+======= Docker image with ImageId: 883fec2942b1 Deleted Successfully =======
+
+Deleted: sha256:efa16ba4259028f3ff8d85b6c2ee483a4ec513ab578a47f42e69f0898c6c5c26
+-n 
+======= Docker image with ImageId: efa16ba42590 Deleted Successfully =======
+
+Deleted: sha256:9586997c019b4f11dc8d6361e0e204b98d5250ebfac3d6bd609bf9021013cb68
+-n 
+======= Docker image with ImageId: 9586997c019b Deleted Successfully =======
+
+Deleted: sha256:f150077518061773cc8a56407d2aa698598f1f7ff60b25eda9b475d715cd871d
+-n 
+======= Docker image with ImageId: f15007751806 Deleted Successfully =======
+
+Deleted: sha256:872d858ca4e53d193905c48b0ef6a8c3561efe44e767218d55f6ccad3351844e
+-n 
+======= Docker image with ImageId: 872d858ca4e5 Deleted Successfully =======
+
+Deleted: sha256:4baabf0ba6b635329205ea0014cad34d11b151588495551b0bc65824eb37dc9e
+-n 
+======= Docker image with ImageId: 4baabf0ba6b6 Deleted Successfully =======
+
+Deleted: sha256:2acb59f8d0809e3d482855cc99cb70b258939d351bee88c1f585c5b11f5d65e6
+-n 
+======= Docker image with ImageId: 2acb59f8d080 Deleted Successfully =======
+
+66fcaea9541b
+-n 
+ ========[Dead|Exited] Docker container with ContainerID: 66fcaea9541b Deleted Successfully ======= 
+
+8d96bc5d420a
+-n 
+ ========[Dead|Exited] Docker container with ContainerID: 8d96bc5d420a Deleted Successfully ======= 
+
+f6fbeeab729f
+-n 
+ ========[Dead|Exited] Docker container with ContainerID: f6fbeeab729f Deleted Successfully ======= 
+
+-n 
+ ======= Docker image with ImageId: 0ac2ba1387f5989c73b86d160ec09a8b05054fabc253606dc8f2749d6fd6c97d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0d63b67be2d07e14ad0afc663c0a123c365bd19d2efa4b10554ba91f4683171a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f3cbcb3bdd5ad707b14e1324c8c93df02d9f8ffdd768249271f0dcea52a949a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f4dbf030c7c9b43efa5aee525f48a5e6dc7dde9db4b80642960afc46bcab15f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f97138076bf3ece910af71fca5d3797687046f4f5e15ce8d82ccbd61c4f9be6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ff57a27ccbb65c990cdf99670316c1d9b38478b3d83428668176a396f90f179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b2ce45190d71f91113edb88784e0ad27c0468d9f4e5dfe0173191e696264d74 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b05652ef03ae654d8adfd944c9b02d1abd53b9fbc32f9f2bb4e2fbf1b203da0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1c807c2d1f4e1c5b048bc2d042c845c3b2b20c126baa8c0ce39096876f2d6bd5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1ce52e31e4636ea48453468b46cd86fd08f71f6bf794cae5cbe2973be938420b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1d7481cddd5e4b5b00912365088f3abc52c69e27d581224453fbaf6b92e5ef1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1df792e005a6866d071c799ee577d0cf445c8d3aec23a591d0eae16dce0cb47b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f07ca7f425fe2a37f6404d439413a520e8c3d7897cc916d4126380180f73348 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f58bf9bde50b70d1fef5e84e4298d608cb65066d7a84792eed61d7bd0019016 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2a0b15e4a56a0c884473353824738920ecd9c746f94157202fa1d0ddcd45849a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2b3f9229698af87702a3eaf6ebd410296afb528f97a84d495a3c5e278018f022 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2baed490b82ca90e2fae0ddfdc803d29b756b8220a1e11f03cb9a71bd5db986b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2d385dff2fe8ec8da8484858039ee9334a36914958e18929e32d149a01c1adfd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2e1cfe08f91f62087cb2bcc6fd8e2e26944fe20ad5e6b64c8e201cd4a0ad6440 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2fdf8b4317534ea2010e2a076dadf4c71ba5da32a54e7b2632b6dc76e797fe42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4c1d1321acf1e311e36c3b3c2008c795218c650c1a87ba0604bfc29ef30cd55f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4e830b8b50554b98cb3e16df6b4b40c8bc2351fde4583b7c27c044f87c94e83d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4f86b4acf64669cdda3c7d61bbb1aed6533aec51d02d75bdf19da46712a140f9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5aecbfc63284ea13b222295bbdb6bf5ff6c65ffeb0b0d91b6f2874db33ac3f9b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b5a5def47a1a76893774be4ff27c932432fae5fa5096c5ab4cf01f3e5cf1bff Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b03829796eb3a58e16e5331669dfcff609ca07fcbceac9f60921fff068a61c1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5eb5fec4a60b1a19de82c479551596a6e7bc42a5220c80db190b93d8d9834325 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6ae9fb96b8f3ca9472ab78ce68f6222fc5aa5064e99bca47a2fdf8f7e73e66e4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0c2a3b27f9dd671bb5e9fff54998bc0e25db520687661334d307ea2600acc3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0f8aa7307e5d38903328ff795d4d34374c2d43b17df568e7a0de3407a2944b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b710c41ce8433c41d60e8979b02c3281f39baacf14be50eb6bc5ae398a34cbf Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6cc00a8744a0e9e1af8b14a4b57b0cb462b8bb59eaaf8aca638dcb6d36614711 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6d497377884c18990cc7f9e3efc251811a354d13cb241012e92642317b502019 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6f72619fd10dd421bdd41c09caf49ac8249a85331f415f18c1abbf1b958cc342 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ac573d1f5bff68ee68c4cff4898e8573b8587abea3f89587908f48791169b21 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7c4a0f68ac45c38735ec1fb5a377065b960b12c8d1babf399cbdd9a7d6311264 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ddff07aa07a1bea622dd07c7306cc20cf20417ad6c3a44d59a6f0259d6c5db3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e4a4fe9d4d2ebc4722e68197b8ac77bd1e6f22eb06dd3610e0f55495d537881 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e05a46754b9c5103abbf4f203dae6fdcc0f813477add4958d8efc54038ecf27 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7edd7139500b8aaba11beced4803871dc7ce48d0c64d24768d7f23f81aa5bf5c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7f43f57d34c177d9a87ec8c2e8ad65f69400866c6a421bed8974b2bcb2bcb6c6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 07e0c4bcadb675bf3fcf9caade5712b41870bb612a9855e54342b962ddf5692f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8a7aba0c0428e703728f847a14138050e97c4356d1a1a651859fc5edbbcbbc32 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c4cb5b8b8a3e8fb0586ecdd1b97c74860689bbec739eb38554b1b7f8b44a99b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8ca84131da9c744c7e074d836c9d27125a572088ad03748705626ed0b8fd6d08 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9b71dd7cee8589b12759298c2d3a4b13f920f73dfade4fff834f58d2fdd98ed1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c995bd49ee22e4f710729bfb4fe490d4e04a88de5104d64b6b7abfda2a87127 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c2032ddabcbbb6f04ade49324d10e8e6c28aab5f130ea8a43eb9673e06bd07f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9d3bd0e5ce528e91433a756153b4cf38d3d734fa0f3b5d0fe8ae6d5802c01d9f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9ec9297b4e158d3aadbc999e560b8cf9c3af85bc6ae176ba5e8cee4ad58032f7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12b04d51b1bcb70620eafadaf599002586db3aa23369697e6e3635f7e92d23ee Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12bc71c0e68e17493af2839c30d4d9e017ab82c9a4ac28be787c551a014dd7eb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14d2683d362e76b8312d59ee288eb5581a9cac7211900b928da4f8aef5f5f37f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14f5cc5b0eb99336b7c595ff3cb5f8e2cf707b3f24bbe41627fe47c327684a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 16f61fb0e3a9cac86a6575090ea8cd40a5d89eff5b5b0beadd5d431a53e665dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 18d33210dfabb65961295365e452cdb1f4b8b08b23d1a495cc02507ce65a241b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 22f0d76f35ee4cee3131c1f1ea1a0725a222e8514d82351075dad60db3aba311 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27b22c0adf0e4f999a3dd5662e4447c01098601ad610b21bf9fd01199507df17 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30c8e5d0a5338784951d760d7f0bec8a31bdf6883f7de01dfad79defa3f1bb09 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e76ff1ab8fe7ded048f9a173fc50a64a37d50cb761d245b3fd37f71a9ab1e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30f7ac36b51735096f1068737b38b75f06614fd8f8d32d984736e316c9f711e8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 35e4e5850a5d946d4bb775e30ae5f517287cfe6d61ee3c291d82d7b71b5a416d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 36f904b26e3073dfbeb3ed1f1d48b8b5babb6a4fa5ac28cd6b522e59b8f67fc0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 045d53c9b58a325a664f8b577937d6bfcef947639acee32b0f9b26d4f1dd23a3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 50c59d0978e7ab12e4e9beb24a6bad5c080a0aebe23c690f1eef39e7e2016620 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 051c40e320d9d71cb9e49ae3f3c26b25ab9a49baffad45e8237b7f978c604963 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 64ae6c68134e4f4fc2dbbf0d3b1806d44e211f06d09634dd6b559328a1c4d34a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 072c00a4e80bdb8186b50191b91f7a1d2113dc4ca0b811eac77d6b0a764d3b3c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 86afa3cb55ea6beb3866ccfe2bfb8e2b9ad6228c3b6a5be88670409c6197bb0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 87b4280f42c95610cfd6e0b91338e2f2fec1a83e6d13571e28e1605525322f8d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 88a3cc23474fe86212468ec71a3628ca25e5c5f37fa54dcf831b9ddd5e6d6a98 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 91def0e2d13daf54a9b518ac1ff11cf81a62e0c860e35c5e17e30b6df7624a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 92fa73bba06b00e088acaaa7fe6bbb1386cac302239214ed8b5f5fba51a10549 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 129fb8741a6e55f46994f65423c641ce78ecdfc96979a54e3bfdacce46cb77c0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 319bc944c6b0a9a79b1b07aa6bb5bed7d8e695021cc605bacf1571e324d0e3e3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 364df6de4bf81685d23227b43bab3fcb19a62f91849971f62a832b118d36104f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 365fb766225dbb9112ac229eb93a2437095ec25bb61d0a7a86922f384e016a89 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 377cfc98a1a56742f5bc22d40c35b9c8d5f41c4c5663b351a9c2ef2a172292a4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 397e07572034731f12a43717d5f34a5de6325290d9e1604eaff65a47ff37dd40 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 428de786615a608a321970baf59dcd73df3f7df8fbbc70fa9199ff5204f9b8d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0451cd03699098320d96a390f62e3ad58534fff39f486659a2eb3c20ac7d6381 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 481f6e30d9c096f35651652f9196373fb9645ff1f1ee94ca81bd31fbef08591a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 501c5323555c10af90cee640f8728b84b7417eeaaa1f653306c8f253604baa0b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 503c1bdd321fc4fbb143ca7835959378bc0bf63cd93038306152542392a2b7e0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 533e9d7b7f662096edafa7ca03b3cdf3dc5addf20b94422b1384c3e45262232b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 543a0035dc4bd68c0abbc1e15a4e4b00b082d657796a8922274cedbc121886d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 545e856399054b9f212d9bb42827ef84e6f8e51f1d8e453920f61dc45a013d0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 580c6501a38be59f2806933dad1bee78ad3f5c935ccd49277429b810283733c5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 737b419705e737e33e8983f8078755c01a66d1a1ef71d2b36596a5b8f0abdbad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 804ffbc1fbb9f37019f982c536e6e98bcdb20a0f40e07cb2d6abb5fa8d5fb179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 950be31edbf5e203e45c7a743515532d0a38e17caa68c45f17a9198a068b76c2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0993f1632c42a52351bdb750afe80e9ad33c1cb049dff5b7c7ff5a16f9d90fad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1986f073ef8f53f9a94dfc275cd2160df102babdbce2a9d20a72c25c87e92d53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2426dc525287e5f0cbec348fd85939d276efdcbde6f8097bcaf2a5b6b51955b8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2966b6aac3a8f3ac916b77b30c855d907a88ddbe72eacab02e4b94f1dc29a9f8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7321fc6b6c569380c29860e2828ed2706719a388e5d78f6c737aece88564b2cd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7994b53e5fc46f2f5c4609fd5dea8f35034aa1364578a72bf903bcab1ff10979 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 08192c8887482e52ee5dfa15290fd4732a60e6e7556b580c2b6e3a4d9b598e5e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 10455a13fdef747248c9db0e12d781f088d6a31a2b70f2c0709be9ebd08cbbf3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 17821d6d98d1d5e6d8a9903b263f022132223344b96d262f32ef8f0fa1564ae7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 29566da939f4c32b7df2d6e2d339c506164a60711f78d3783f748e988ee69bb9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51437b6e855242b175b1580df8e923705c79379b0884c6319ac70c81655af1f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51485ecbac1aac02888ded4aeae64fafd74525bd6ae2bf73abbf76a34f0b5aae Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 82621ff0d5882b47e8c5f30cbfafbc64e9553f2cf76dbe0a802df4b84dc97797 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 138188fcdf121db1401142ea0f610d0018b6d0000b4b39dd735ff4eea8dd38b5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 283198af3e2c07c3e87b3966137e1a9ce44126352cab2894d5f397cd0a3e5d23 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0770414e24fcc35726a8f72d0add03c78a5fed7a751cc2265e30f7cfa0b3b90c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 932809eeffae8f538e25dc90328c90b24281dd36d7b046b9ce1a7853af474c6d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2726470ee81c99ee790e5bb9a6e41ba0ffa8afdb1c782f054e7ff2bfffbb08c7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3552211cd5744f9837158f2b83d6ee820f33a78a93512f862c9351211a1e0af0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4794409a4376020814bfb08974611e2bf296f189bd9afd0092c792e506c45b77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8117816f7d5f6ad97eaab1769af53cc9a5edd73cb28f863c6a9f51b1d3ea2346 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27588568c8af69488b0fefeba29590e24b76b6f735eca12662352ea051579164 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 483274121d4bf6964ef34278b3ac019ea5ec3e4f8241abb60614881143ee9e1a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 592630171fec817264d506df06f8bda9749f73683c9cf574ae2d99e979a24da7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1945118902ea38001573c6e36a4eeb3c8627679c3275e47c477566ac65234cb7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2519298360dd47e4328b79c7c73c104decf6e5e3a2b8c8977004a910a4c6bdaa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 94586336316b255fc0a1c6783634074d60ce437980c621ee401ac35a7c8b588d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2ba2dac5c9e9b5f19b39deb05080241861072382b92df414fa1924bae75fba7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2f778297293110a1ca0637247782951e58306249e0314b344c52afc4f95f378 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a8cf599304f13b67ae1d9be6633314d25ae6cef9783ed6bc05a9cb9cd3294e03 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a33a2109da8eb0e7d40d251f2c22297bedd06766df2bfebbfe3e41f726669655 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a47f902a08c460cf15c6a6e85ae2b5b0fb68502eebedb960ac4c657567616d71 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a86db1f8b5a80d790c505ba767a26b62bbd9040d6542f504b4f8527143a96801 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a312a9a685971fa19c858af36dfb0a91be28874480d6d6e4c7bdf2297bf3477e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a372d304a927b1a4e2a7680ef4e881d9a622e75573d690993b52139ceeca4f86 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eb4918c137e9d0f1b39febd42693bfde5f89b722c11761e7adf108ab95a97a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b83f1be43edd556cbf2ba55a2f6c29f228e6cc84952756c94f8ac5f8452f177c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b88ba38c298dd4e25cd2bee1a11c7b61fd9f16b508250268769d75ca1bd4735b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6869dd7987cc9edd46406d0383715e8d4a81af152b746aefa1a65f34974fbe1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b45677fd6bf1c98026b37e333a8fc8c5e152f70c8a92e900db3635f640a70156 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ba13cf1d801c358fb2ff1bcb643ec5896796d7b910100b95f8a4b31a93326b4d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bb1520491a44941e709f9b65710e795aabd59eac6fe31b3b6f593854e54c1972 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bea0d3d15382990edec5425faaf6f4883a47c2a1fc182598031dd23157e232cb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bf70f3b3d7e94a62cf0ff2c07a85674dba5a2d3c12d8d3b258c50ebdcf4e145c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3c5797dd55f50f36349cb5977f07d8f6b24ad87c7ad9ee547fe0f45d8425014 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3f888d82502ff92b7d9943386e63c13caf8a089b092bb0386017d382bd056a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c68c630b8cc812d1549c99acf12bd094b425e1227c5c93edb4824847646707f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c082b22986b409bc91e7d242705b7df3659de57828e169b2091527a6f2f18230 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c137d630bea04c178a90c33f6d5680ac551b5af6a875442aec73634c48712abb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c6353b83a19750cc66711feb5b0d2788270eaba830c8d1dde01b2de4771d1e51 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c8899d30975c500da8f9a9983c185fcde3daf67fdfe9d6fee9fa4e81d618bf04 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cae7572d5d6bcddcf0ffa1cfc6252e08e0f49b96449d16729f4b0a8eba418176 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cc8699980423f162535ee9866ba21ad6dcea12c1696c08b9e9d2565358c58158 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd2054c346c7b6e17d977daa9809cebe578e58e7927a42154cd4cb04bc3df596 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cdf62cb223e1a53d47882353de2cd51673e31ba65552c042cde389cf5ea8ee81 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d00ae2ca5484292f02e84f73028925f31ac24d47f0f7b19732e6bd5d70b3952c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d1f1875d3c0db9186a7fbc8810b1577b95c57df11f2fafc1e0763abd9c0e5b73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4fd6081241b851642eb96833ec79462c2fa18378a30fff539ceb949afb627dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5a4a14c21c3ef32493458017f5f2a3b55ae84eee64e6c9831cba7430e7dfe77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d49ac7a377818da71cbe2829954cc2a2fc4c7a76499458459c22f54a5fb835aa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d73b6ec8d67d2d99e6d3d2bf009b88638a5d16419a424c15b0697189fedb409e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d99ca630f737f457ab31a341f5f3fecd57c32d1c740c46e7fd78f79535539236 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d963ab9d84e0ec22f313c0412c45362591b74002b647c84dd935080cadcc9c42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d7772ed0c3ee121d42a95ea2029685c4f2bb8efdf3042f1172abbb27f25895fc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d827022bb1871e34160f915b56d8d0513980a6f1e13f6691da51e5c73934698c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dbed522fd27b4e5e8f5420ac836d542f198fd5967237a98292975547cc41a4e1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dcc50f0f78756d6674cbc6e596c7046550c181d265cf904a2037fb93fd426e2a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dd5baaad0c080a9cb58c070fcdc9c6b0dfef9a5579c5b90c94dc79d6ffe1d721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_pgadmin Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_postgres Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1ae5d9013c49ea9d26f2ca58bc5bfb258725119bc88d86d4cff81df3720a713 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1e76da548a192e57dc2b39345c797729095db34f0d7dcb8ef6805f5a5480716 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e07cf77b8e4d8e8cb4a14c0e60af705d6cd9a70394bd0b2619771819d42a63f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e8c044ea165a5ee34ac1e0f5bf7d029906e2f10fb90a2da207a42a823a03371a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e08a63f242fbefcda138386d0f2274c4f26b33a7aed5e47f3f4d19114b4fb81e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e33c6f49eddd905b964067dd188f8569b23d4e90d62049e6c3c51a3cfdd65d49 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e51c022f4ec0417e7f49994341bcbaf8f344a3472b29f0e9ebe8133962ce0183 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e127ddd2cd5689284e68d053402a7beb446cb92fd014752f6ce2e29d04682862 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e461c0714cdc8508a4d5c81a8db4a19ad6932499927ba8c27e84b4109adecec8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e866a771af6bdab511b82dd0e4aed19ffbdb31280e6c5d65f15d162bc48b3b72 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1647f763f22fa2341d7a810d65f556f2dcc5600aad8f319f6750e07c1826ccb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e02139e4b63cb63ebd64ad9299374f21538679fe5b78b5bb1befea898eb3d904 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e55698263e6c4c3267bedb99722d326c83f3682c4e9c3606c14b80834ca1927a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ecb6612f579e0616323f9e0ac1c2a57d8e02b106f66022feb153c42c561597d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed01ed25eeafa9ad68bf379c6e9bfb6db2bce7b314ccefe36682836f3939d210 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed836d9fed1f251221f20aa631a92d1ab147eb72e83351cd0586f46b9af50418 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ee9b0a07a9eeb68dd8144a28313a1ef3bf23b64e99896a63bb8b30dcafcb04bd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef5a7a90848207dcfacf603f69177ca6cf1324b5aca40521559b9c8d61ef3453 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef273eabe919849b3a3fc10e25eae4a2f7caf139fb66fdf9ef4a63db6cf8b033 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f0fead7db47eae37685fa803519e2ec9352270aba6c1dbc5c94cb85f17f730f6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f1e8f763d771e60c9d36243537180b7a35d56509483aa1592759fa86f7211327 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9be7296b53b19fe9c95dc771876d5d723cfaa6c4b1e20cc42291d4a188c1519 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9e9e02db8bef80c175e6771b62f91ea6ffb7af2e561d7c9338193ac31ce1630 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f31e7f10e4357dc478df5a0efca92df29aa8665d63b3f171a494d17452e73c9e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f210dda9e8eddf271d85db648b1e81ceeabf5e62ba6424d343cba3c560c84ea5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f3914b5455c4026eccd75fd96f956804499538f620aa01f26f2631a598d07590 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f28090fec07d253301d0240c123e07dd7924a1c61d9c9ea102930929d32fdd93 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f932874e579a57441693dda0eecaa7e19f74399ba958150b08d23bc804035532 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fc81d4b6e13d7a09bde1f5d79513df275c338acde1f4f3e2395709a58fb51e78 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fd8f6db8ca22e26e8b765b66342e645c6ed767d38c3fe324dd61b414939dd9c9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fe3b021443c1462b7020b82291ab2279508a0bc731132dcd1edf722b947c2c05 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff972aea14b378f14f92a4fc060781777e397712e37486047aee09209fed89be Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ffbe67ae4664d65a0c1d696e343f25c86fa46eb0fd640091d4b879c2ee6c9924 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-kafka_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight_db-data Delted Successfully =======
+
+-n 
+======= Docker image with ImageId: 648b17c0c1d1 Deleted Successfully =======
+
+Deleted: sha256:d2d57274a2d6b6186e2fd33538adce57e87bee4e57e7ad3fc6ff2656437fe105
+-n 
+======= Docker image with ImageId: d2d57274a2d6 Deleted Successfully =======
+
+Deleted: sha256:3bbc8ef05a1b3be2258a9fa148bf7573214a7c7e2c862444a5e048b470fc5b27
+-n 
+======= Docker image with ImageId: 3bbc8ef05a1b Deleted Successfully =======
+
+Deleted: sha256:ec1932a2675c541c5695ec3e16821f855d75689867f0ceb0de220c0890c3805e
+-n 
+======= Docker image with ImageId: ec1932a2675c Deleted Successfully =======
+
+Deleted: sha256:b60a4af3021636c04d58cd95fe1a2c77506db98e0b7bb4a61c611cd268ca7d2f
+-n 
+======= Docker image with ImageId: b60a4af30216 Deleted Successfully =======
+
+Deleted: sha256:2e8029614d4bf3000d0fc0d5a657053a6d1553cd0cbc9ea7f09a4fa8003b1adf
+-n 
+======= Docker image with ImageId: 2e8029614d4b Deleted Successfully =======
+
+Deleted: sha256:f393953fc9ecab6c41ac686d63795ac8303eceb6403d58b5caf2cd13e2d01062
+-n 
+======= Docker image with ImageId: f393953fc9ec Deleted Successfully =======
+
+Deleted: sha256:b5f6ecb99225de70cdff83d4e9a1a31edd70feaa1558e63e8dacdee136495800
+-n 
+======= Docker image with ImageId: b5f6ecb99225 Deleted Successfully =======
+
+Deleted: sha256:cabdcdcaa99a59acb2aa8930a70454181537544644ce5a7cb3126ba0b3765b32
+-n 
+======= Docker image with ImageId: cabdcdcaa99a Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: dpage/pgadmin4:latest
+Untagged: dpage/pgadmin4@sha256:123ec096116d8e15875d7ed9d001eb1c755334acb248cfc4c48af154b23ab0da
+Deleted: sha256:2d7539c5a1338b9b063c60aa25e2f8ae948ba717c0c0c7ca91fbea7e9733d434
+Deleted: sha256:3ac4cb0c0e5fa4074dcb53d0f57698e87011534574a3ac8ecca3060dc16432c3
+Deleted: sha256:1e0c452adc004ff06e1490866e3e523b44d6cae2a10c88ce677a7445f1203a4f
+Deleted: sha256:046b9105b464d450c5a6d82975358897c517e1f3b3029d78ecb56361b2cbce69
+Deleted: sha256:0c2ffa9aeb3b2e4972ef2aa46d84f6139737cc2cadb67267053599d65b1acf68
+Deleted: sha256:1e0d924391bd8784f06e899ac58ddaa2256d8d1188b5a6ce40af0c80a41d7923
+Deleted: sha256:fcacf6ba64a099e79512b9c8ffdd2379684d547ea8acc60143bcb0f31f3f5674
+Deleted: sha256:aa71c317a77dcd3d8d55b27eca5f7e159414233d54041c311ff369d24cc8a778
+Deleted: sha256:20eae8224caf07a67bd64b2e34cd16f614e067b3a69edf300b397130e33a6c09
+Deleted: sha256:5759604536c06b4b8e140182ca6d0cf12c467f15ebce8a8801a0a89409cadcb7
+Deleted: sha256:ef0bc1e2acab51a9d50c8204260b77a9fe4610dc413da9d018fa23aa0e8e8a30
+Deleted: sha256:2256f03d170d85c00fe1c39215418b56572e1645e8845cccd490f32fb441d087
+Deleted: sha256:9f72f512e2b5c65b9f1e0bf0336b126dbdbffd2d29937cdfb1fd949cb2123f56
+Deleted: sha256:e6888ec73317e0dec821aa713d85670b55b26fc25b6bb20073c64a724e476e73
+Deleted: sha256:4fc242d58285699eca05db3cc7c7122a2b8e014d9481f323bd9277baacfa0628
+-n 
+ ======= Docker image with ImageId: 2d7539c5a133 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bc02a3fd9d66 Delted Successfully =======
+
+Untagged: confluentinc/cp-server:6.2.0
+Untagged: confluentinc/cp-server@sha256:94cb22f4a211e4f4ad98f5f291bec63ded04d9e245e3d342fd4a7d002376f99b
+Deleted: sha256:fc2a04098df8e0bfb003fad306e215b145bae23cc2ca8e77c5d493abad17108e
+Deleted: sha256:e5a80f3424acc4355784175a045eb640d9ef2a97c83a3a4227788dbf1f7cd1e7
+Deleted: sha256:f801237f72347895e4acc7e3e064061fe3ef5df62cccb149c5ba7e8ca0ca7e30
+-n 
+ ======= Docker image with ImageId: fc2a04098df8 Delted Successfully =======
+
+Untagged: confluentinc/cp-zookeeper:6.2.0
+Untagged: confluentinc/cp-zookeeper@sha256:9a69c03fd1757c3154e4f64450d0d27a6decb0dc3a1e401e8fc38e5cea881847
+Deleted: sha256:3cf98185738a40716e6a406b43c6781d6fd63e7ac302d4464fccc797979c0747
+Deleted: sha256:50a01c867a2444a4b96112b251e4f20cc5e967e0f5363741951a47fd960be18f
+Deleted: sha256:c09de15424d4b721ef88a321f53d61ee6c5eabb070a76860cc64cbc455489c28
+Deleted: sha256:4b54dac185687c4338893be05bf5970ccfab4042189c722272167bf6ccda71cb
+Deleted: sha256:92e2afc6e6772ebd2c7689ed436120792fd87a3ad38abb87aa87c9898da7ef99
+Deleted: sha256:80025243e1629ff85f88c0e7c4188d7603b52ccf2ec7d734d5a2683a29599259
+Deleted: sha256:ece07fc9ce48a3e116b5d1716aa2656bb8d5f2ebe6dd5398a8401e8edf4805aa
+Deleted: sha256:8aaf1bfa9eb23c11b5ed9851738d73b95a93266255a2275a3f7de1aa17ba4bba
+Deleted: sha256:54a20d54a85c53b4fb226d13db3f9baae204e87363d6f65aac125fdc3bbf9c15
+Deleted: sha256:50d3c31974acb4abe35e88aa7eb8c70d052a350156d7951ba8350249d280baee
+Deleted: sha256:f7f98563dc9c9f711c2a6a3b5c0d88257e5fd21d148fe2221b09698dbe1eceaa
+Deleted: sha256:785573c4b94554cc3ba023f2648ba476bc5c33a05344c341f78bb384fb4b9d58
+-n 
+ ======= Docker image with ImageId: 3cf98185738a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 648b17c0c1d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0a3b4b9eebf09ebb9a204d649c3d512992ecb4ccd7f851a5d5d00fd290a7d3ec Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ac2ba1387f5989c73b86d160ec09a8b05054fabc253606dc8f2749d6fd6c97d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0d63b67be2d07e14ad0afc663c0a123c365bd19d2efa4b10554ba91f4683171a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f3cbcb3bdd5ad707b14e1324c8c93df02d9f8ffdd768249271f0dcea52a949a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f4dbf030c7c9b43efa5aee525f48a5e6dc7dde9db4b80642960afc46bcab15f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f97138076bf3ece910af71fca5d3797687046f4f5e15ce8d82ccbd61c4f9be6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ff57a27ccbb65c990cdf99670316c1d9b38478b3d83428668176a396f90f179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1a61e92ad9f94cd7eab48dd6935290f00321107788a4af47ed3951384bd7cd8e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b2ce45190d71f91113edb88784e0ad27c0468d9f4e5dfe0173191e696264d74 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b05652ef03ae654d8adfd944c9b02d1abd53b9fbc32f9f2bb4e2fbf1b203da0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1c807c2d1f4e1c5b048bc2d042c845c3b2b20c126baa8c0ce39096876f2d6bd5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1ce52e31e4636ea48453468b46cd86fd08f71f6bf794cae5cbe2973be938420b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1d7481cddd5e4b5b00912365088f3abc52c69e27d581224453fbaf6b92e5ef1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1df792e005a6866d071c799ee577d0cf445c8d3aec23a591d0eae16dce0cb47b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f07ca7f425fe2a37f6404d439413a520e8c3d7897cc916d4126380180f73348 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f58bf9bde50b70d1fef5e84e4298d608cb65066d7a84792eed61d7bd0019016 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2a0b15e4a56a0c884473353824738920ecd9c746f94157202fa1d0ddcd45849a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2b3f9229698af87702a3eaf6ebd410296afb528f97a84d495a3c5e278018f022 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2baed490b82ca90e2fae0ddfdc803d29b756b8220a1e11f03cb9a71bd5db986b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2d385dff2fe8ec8da8484858039ee9334a36914958e18929e32d149a01c1adfd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2e1cfe08f91f62087cb2bcc6fd8e2e26944fe20ad5e6b64c8e201cd4a0ad6440 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2fdf8b4317534ea2010e2a076dadf4c71ba5da32a54e7b2632b6dc76e797fe42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 002f26912e5f0ac984d200e5568840ed6e54d50f7bd19688ed2032de95c9d65a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3cb790115e71dfa50292cfce27fde9203b49dca1d1a9fd363282b4d6b77a3ca8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f249ac370738412d7b4ecf070f3616d5a4c0af4c758ede3031a449b92bbf50c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f9033e7d1b591c8ee37f9c757e354e8b17c240e998cf74acf19e2e96454e2f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4c1d1321acf1e311e36c3b3c2008c795218c650c1a87ba0604bfc29ef30cd55f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4e830b8b50554b98cb3e16df6b4b40c8bc2351fde4583b7c27c044f87c94e83d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4f86b4acf64669cdda3c7d61bbb1aed6533aec51d02d75bdf19da46712a140f9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5aecbfc63284ea13b222295bbdb6bf5ff6c65ffeb0b0d91b6f2874db33ac3f9b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b5a5def47a1a76893774be4ff27c932432fae5fa5096c5ab4cf01f3e5cf1bff Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b03829796eb3a58e16e5331669dfcff609ca07fcbceac9f60921fff068a61c1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5eb5fec4a60b1a19de82c479551596a6e7bc42a5220c80db190b93d8d9834325 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6ae9fb96b8f3ca9472ab78ce68f6222fc5aa5064e99bca47a2fdf8f7e73e66e4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0c2a3b27f9dd671bb5e9fff54998bc0e25db520687661334d307ea2600acc3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0f8aa7307e5d38903328ff795d4d34374c2d43b17df568e7a0de3407a2944b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b710c41ce8433c41d60e8979b02c3281f39baacf14be50eb6bc5ae398a34cbf Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6cc00a8744a0e9e1af8b14a4b57b0cb462b8bb59eaaf8aca638dcb6d36614711 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6d497377884c18990cc7f9e3efc251811a354d13cb241012e92642317b502019 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6f72619fd10dd421bdd41c09caf49ac8249a85331f415f18c1abbf1b958cc342 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7aab09bd18347ff1b6129c376464d6d5cb5d904f2ef1f237c3f54ba03d2d3a73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ac573d1f5bff68ee68c4cff4898e8573b8587abea3f89587908f48791169b21 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7c4a0f68ac45c38735ec1fb5a377065b960b12c8d1babf399cbdd9a7d6311264 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ddff07aa07a1bea622dd07c7306cc20cf20417ad6c3a44d59a6f0259d6c5db3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e4a4fe9d4d2ebc4722e68197b8ac77bd1e6f22eb06dd3610e0f55495d537881 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e05a46754b9c5103abbf4f203dae6fdcc0f813477add4958d8efc54038ecf27 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7edd7139500b8aaba11beced4803871dc7ce48d0c64d24768d7f23f81aa5bf5c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7f43f57d34c177d9a87ec8c2e8ad65f69400866c6a421bed8974b2bcb2bcb6c6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 07e0c4bcadb675bf3fcf9caade5712b41870bb612a9855e54342b962ddf5692f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8a7aba0c0428e703728f847a14138050e97c4356d1a1a651859fc5edbbcbbc32 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c4cb5b8b8a3e8fb0586ecdd1b97c74860689bbec739eb38554b1b7f8b44a99b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c7358ae1fdf5098588402026e7c16c001a5b9ea4c755ebde0fff0a3899224b2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8ca84131da9c744c7e074d836c9d27125a572088ad03748705626ed0b8fd6d08 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8f2800f3e6ce668f7bc886f2d7654304b837fe43d26f55d43379f5bea95f81a7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9b71dd7cee8589b12759298c2d3a4b13f920f73dfade4fff834f58d2fdd98ed1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c995bd49ee22e4f710729bfb4fe490d4e04a88de5104d64b6b7abfda2a87127 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c2032ddabcbbb6f04ade49324d10e8e6c28aab5f130ea8a43eb9673e06bd07f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9d3bd0e5ce528e91433a756153b4cf38d3d734fa0f3b5d0fe8ae6d5802c01d9f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9ec9297b4e158d3aadbc999e560b8cf9c3af85bc6ae176ba5e8cee4ad58032f7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12b04d51b1bcb70620eafadaf599002586db3aa23369697e6e3635f7e92d23ee Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12bc71c0e68e17493af2839c30d4d9e017ab82c9a4ac28be787c551a014dd7eb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14d2683d362e76b8312d59ee288eb5581a9cac7211900b928da4f8aef5f5f37f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14f5cc5b0eb99336b7c595ff3cb5f8e2cf707b3f24bbe41627fe47c327684a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 16f61fb0e3a9cac86a6575090ea8cd40a5d89eff5b5b0beadd5d431a53e665dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 18d33210dfabb65961295365e452cdb1f4b8b08b23d1a495cc02507ce65a241b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 22f0d76f35ee4cee3131c1f1ea1a0725a222e8514d82351075dad60db3aba311 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27b22c0adf0e4f999a3dd5662e4447c01098601ad610b21bf9fd01199507df17 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30c8e5d0a5338784951d760d7f0bec8a31bdf6883f7de01dfad79defa3f1bb09 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e76ff1ab8fe7ded048f9a173fc50a64a37d50cb761d245b3fd37f71a9ab1e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e12601e0528968f9aee7be4eea205aff29bc498d411a629a7ae82434eecc01 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30f7ac36b51735096f1068737b38b75f06614fd8f8d32d984736e316c9f711e8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 35e4e5850a5d946d4bb775e30ae5f517287cfe6d61ee3c291d82d7b71b5a416d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 36f904b26e3073dfbeb3ed1f1d48b8b5babb6a4fa5ac28cd6b522e59b8f67fc0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 045d53c9b58a325a664f8b577937d6bfcef947639acee32b0f9b26d4f1dd23a3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 50c59d0978e7ab12e4e9beb24a6bad5c080a0aebe23c690f1eef39e7e2016620 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 051c40e320d9d71cb9e49ae3f3c26b25ab9a49baffad45e8237b7f978c604963 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 54f20cd1342eb4180c6e62bb5b8682381d12952c757b05374e811ba037a0d880 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 64ae6c68134e4f4fc2dbbf0d3b1806d44e211f06d09634dd6b559328a1c4d34a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 69b80c574654794eca61d06ff2228a256c674eecdce2e021594ea9ba7edbdcd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 70a4fd60034b5478a7cdd5add5a366595d7bbc2b2e380df149d58cc25518243d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 072c00a4e80bdb8186b50191b91f7a1d2113dc4ca0b811eac77d6b0a764d3b3c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 86afa3cb55ea6beb3866ccfe2bfb8e2b9ad6228c3b6a5be88670409c6197bb0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 87b4280f42c95610cfd6e0b91338e2f2fec1a83e6d13571e28e1605525322f8d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 88a3cc23474fe86212468ec71a3628ca25e5c5f37fa54dcf831b9ddd5e6d6a98 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 90e93e62af4e9b43578a276878239bc20d5771481d41d6d890f970b6b924659a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 91def0e2d13daf54a9b518ac1ff11cf81a62e0c860e35c5e17e30b6df7624a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 92fa73bba06b00e088acaaa7fe6bbb1386cac302239214ed8b5f5fba51a10549 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 97cd69746c840e12de294ea24313501e48e71617d90765f243a4e7721c277df2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 129fb8741a6e55f46994f65423c641ce78ecdfc96979a54e3bfdacce46cb77c0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 153bf8336910b43badfb5fe9c2894b45cda0687adf0145120823ac63f0fb09a5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 231b737299ff49beaf4602662614210053e50910819c154ba7639393b24cc64d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 319bc944c6b0a9a79b1b07aa6bb5bed7d8e695021cc605bacf1571e324d0e3e3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 364df6de4bf81685d23227b43bab3fcb19a62f91849971f62a832b118d36104f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 365fb766225dbb9112ac229eb93a2437095ec25bb61d0a7a86922f384e016a89 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 377cfc98a1a56742f5bc22d40c35b9c8d5f41c4c5663b351a9c2ef2a172292a4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 397e07572034731f12a43717d5f34a5de6325290d9e1604eaff65a47ff37dd40 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 428de786615a608a321970baf59dcd73df3f7df8fbbc70fa9199ff5204f9b8d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0451cd03699098320d96a390f62e3ad58534fff39f486659a2eb3c20ac7d6381 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 481f6e30d9c096f35651652f9196373fb9645ff1f1ee94ca81bd31fbef08591a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 501c5323555c10af90cee640f8728b84b7417eeaaa1f653306c8f253604baa0b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 503c1bdd321fc4fbb143ca7835959378bc0bf63cd93038306152542392a2b7e0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 533e9d7b7f662096edafa7ca03b3cdf3dc5addf20b94422b1384c3e45262232b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 543a0035dc4bd68c0abbc1e15a4e4b00b082d657796a8922274cedbc121886d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 545e856399054b9f212d9bb42827ef84e6f8e51f1d8e453920f61dc45a013d0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 580c6501a38be59f2806933dad1bee78ad3f5c935ccd49277429b810283733c5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 705f672e09534671f4da1033bce8d2ebadf78ee7d7853c04ff2028a8c75b34f1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 737b419705e737e33e8983f8078755c01a66d1a1ef71d2b36596a5b8f0abdbad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 804ffbc1fbb9f37019f982c536e6e98bcdb20a0f40e07cb2d6abb5fa8d5fb179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 834c258775ebacd9526c47184ffb34ad6bb3464752bf6d8d8f13138b78d7d2ac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 899ad0365e97559daf2b4c196d6588c83daec3d356068faa415b75e563f9dd46 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 950be31edbf5e203e45c7a743515532d0a38e17caa68c45f17a9198a068b76c2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0993f1632c42a52351bdb750afe80e9ad33c1cb049dff5b7c7ff5a16f9d90fad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1986f073ef8f53f9a94dfc275cd2160df102babdbce2a9d20a72c25c87e92d53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2426dc525287e5f0cbec348fd85939d276efdcbde6f8097bcaf2a5b6b51955b8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2966b6aac3a8f3ac916b77b30c855d907a88ddbe72eacab02e4b94f1dc29a9f8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7321fc6b6c569380c29860e2828ed2706719a388e5d78f6c737aece88564b2cd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7994b53e5fc46f2f5c4609fd5dea8f35034aa1364578a72bf903bcab1ff10979 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 08192c8887482e52ee5dfa15290fd4732a60e6e7556b580c2b6e3a4d9b598e5e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9065f8c6363560050650b17e303caa2cef4ef247f1967e8272078f6e36f2bc19 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 10455a13fdef747248c9db0e12d781f088d6a31a2b70f2c0709be9ebd08cbbf3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 17821d6d98d1d5e6d8a9903b263f022132223344b96d262f32ef8f0fa1564ae7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 29566da939f4c32b7df2d6e2d339c506164a60711f78d3783f748e988ee69bb9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51437b6e855242b175b1580df8e923705c79379b0884c6319ac70c81655af1f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51485ecbac1aac02888ded4aeae64fafd74525bd6ae2bf73abbf76a34f0b5aae Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 82621ff0d5882b47e8c5f30cbfafbc64e9553f2cf76dbe0a802df4b84dc97797 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 138188fcdf121db1401142ea0f610d0018b6d0000b4b39dd735ff4eea8dd38b5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 256367abc8437d5b5069a2914c57349cbf107c9dea593a24e21edf8b532c9c1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 283198af3e2c07c3e87b3966137e1a9ce44126352cab2894d5f397cd0a3e5d23 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0770414e24fcc35726a8f72d0add03c78a5fed7a751cc2265e30f7cfa0b3b90c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 932809eeffae8f538e25dc90328c90b24281dd36d7b046b9ce1a7853af474c6d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2726470ee81c99ee790e5bb9a6e41ba0ffa8afdb1c782f054e7ff2bfffbb08c7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3552211cd5744f9837158f2b83d6ee820f33a78a93512f862c9351211a1e0af0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4794409a4376020814bfb08974611e2bf296f189bd9afd0092c792e506c45b77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8117816f7d5f6ad97eaab1769af53cc9a5edd73cb28f863c6a9f51b1d3ea2346 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27588568c8af69488b0fefeba29590e24b76b6f735eca12662352ea051579164 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 215776887f528185f92563aa75bdbb5caf73b992ff582616c5abd31fa4abcfd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 483274121d4bf6964ef34278b3ac019ea5ec3e4f8241abb60614881143ee9e1a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 592630171fec817264d506df06f8bda9749f73683c9cf574ae2d99e979a24da7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1945118902ea38001573c6e36a4eeb3c8627679c3275e47c477566ac65234cb7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2519298360dd47e4328b79c7c73c104decf6e5e3a2b8c8977004a910a4c6bdaa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 94586336316b255fc0a1c6783634074d60ce437980c621ee401ac35a7c8b588d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2ba2dac5c9e9b5f19b39deb05080241861072382b92df414fa1924bae75fba7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2f778297293110a1ca0637247782951e58306249e0314b344c52afc4f95f378 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a8cf599304f13b67ae1d9be6633314d25ae6cef9783ed6bc05a9cb9cd3294e03 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a33a2109da8eb0e7d40d251f2c22297bedd06766df2bfebbfe3e41f726669655 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a47f902a08c460cf15c6a6e85ae2b5b0fb68502eebedb960ac4c657567616d71 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a86db1f8b5a80d790c505ba767a26b62bbd9040d6542f504b4f8527143a96801 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a98c755c5637b2a60305c16dd6ef971d48b687bb0d52b38bcc5f553067110ee6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a312a9a685971fa19c858af36dfb0a91be28874480d6d6e4c7bdf2297bf3477e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a372d304a927b1a4e2a7680ef4e881d9a622e75573d690993b52139ceeca4f86 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: aa5c7d7a2687e41ea95b7810ed40746f55af91cb689143ac8711e2c52df562e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4633dba0f670d629e08634d2aaa70d1617b916b6f3e1d7a6c41fd23ca46e75 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eb4918c137e9d0f1b39febd42693bfde5f89b722c11761e7adf108ab95a97a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eedb91fa7419d3833e20b38539f8799c947e7aeaa888850a899f5c84765b3e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b15dcccf1cb42d8b9a2d4a082c2ce37afda540bb25df99041a799e15fefbf110 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b83f1be43edd556cbf2ba55a2f6c29f228e6cc84952756c94f8ac5f8452f177c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b88ba38c298dd4e25cd2bee1a11c7b61fd9f16b508250268769d75ca1bd4735b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6869dd7987cc9edd46406d0383715e8d4a81af152b746aefa1a65f34974fbe1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b45677fd6bf1c98026b37e333a8fc8c5e152f70c8a92e900db3635f640a70156 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b2800302bb074d7ad4d2aad489d9a700fd2ee2e5832358763bd3e881d46c91db Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ba13cf1d801c358fb2ff1bcb643ec5896796d7b910100b95f8a4b31a93326b4d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bb1520491a44941e709f9b65710e795aabd59eac6fe31b3b6f593854e54c1972 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bca5248caf0f365062c18f0fff32b57eba74118491e96111c61145433b467a33 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bea0d3d15382990edec5425faaf6f4883a47c2a1fc182598031dd23157e232cb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bf70f3b3d7e94a62cf0ff2c07a85674dba5a2d3c12d8d3b258c50ebdcf4e145c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bfde57b47de6df634706178a771c2b218afcc60a1bf2f72734c6df9984495451 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3c5797dd55f50f36349cb5977f07d8f6b24ad87c7ad9ee547fe0f45d8425014 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3f888d82502ff92b7d9943386e63c13caf8a089b092bb0386017d382bd056a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c16c4af2c8e7b2e54eb5320379888e3d58b3c1a5064fb08b754e8d06ff401c88 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c68c630b8cc812d1549c99acf12bd094b425e1227c5c93edb4824847646707f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c082b22986b409bc91e7d242705b7df3659de57828e169b2091527a6f2f18230 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c137d630bea04c178a90c33f6d5680ac551b5af6a875442aec73634c48712abb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c2251bdf47f4c88bd7cc85904a8438f06bfbb0b3f22e1e6fe0b9b53df8fe8c53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c6353b83a19750cc66711feb5b0d2788270eaba830c8d1dde01b2de4771d1e51 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c8899d30975c500da8f9a9983c185fcde3daf67fdfe9d6fee9fa4e81d618bf04 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cae7572d5d6bcddcf0ffa1cfc6252e08e0f49b96449d16729f4b0a8eba418176 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cc8699980423f162535ee9866ba21ad6dcea12c1696c08b9e9d2565358c58158 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd1cc5d05b046f924bf7d33d03babb1ed9350a45f1afda145c27274280d84df5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd2054c346c7b6e17d977daa9809cebe578e58e7927a42154cd4cb04bc3df596 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cdf62cb223e1a53d47882353de2cd51673e31ba65552c042cde389cf5ea8ee81 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce873ba5cb37b11a627bbafd862e727d8c8d468a164c35e1fc7eff080e98e13e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce6469644ec0777b5a7bfeea5edfd8a7748508b004d03e91412c211f7c80028c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d00ae2ca5484292f02e84f73028925f31ac24d47f0f7b19732e6bd5d70b3952c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d1f1875d3c0db9186a7fbc8810b1577b95c57df11f2fafc1e0763abd9c0e5b73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4c0b5a44c362f7b7c24dbcffc1a2d7a167905642540926d83fe454390708afc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4daab5130fc79d287ac49bf1317061041bf06e37ff364da2579b197b2de78d3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4fd6081241b851642eb96833ec79462c2fa18378a30fff539ceb949afb627dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5a4a14c21c3ef32493458017f5f2a3b55ae84eee64e6c9831cba7430e7dfe77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5e3750e62ac00b84f9451d491c815af81129bd9238c43483955f76e5689deb3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d29dbf3ccd31e7e29f6676b88aa95e8db400f6c37dfc4f1db0c082d0920ee8a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d49ac7a377818da71cbe2829954cc2a2fc4c7a76499458459c22f54a5fb835aa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d73b6ec8d67d2d99e6d3d2bf009b88638a5d16419a424c15b0697189fedb409e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d99ca630f737f457ab31a341f5f3fecd57c32d1c740c46e7fd78f79535539236 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d963ab9d84e0ec22f313c0412c45362591b74002b647c84dd935080cadcc9c42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d7772ed0c3ee121d42a95ea2029685c4f2bb8efdf3042f1172abbb27f25895fc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d827022bb1871e34160f915b56d8d0513980a6f1e13f6691da51e5c73934698c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dbed522fd27b4e5e8f5420ac836d542f198fd5967237a98292975547cc41a4e1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dcc50f0f78756d6674cbc6e596c7046550c181d265cf904a2037fb93fd426e2a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dd5baaad0c080a9cb58c070fcdc9c6b0dfef9a5579c5b90c94dc79d6ffe1d721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: df747d4ff0d22313d095a762e5329ca40e691901e6d40071e2eb2e2604e08d8c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_pgadmin Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_postgres Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1ae5d9013c49ea9d26f2ca58bc5bfb258725119bc88d86d4cff81df3720a713 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1e76da548a192e57dc2b39345c797729095db34f0d7dcb8ef6805f5a5480716 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e07cf77b8e4d8e8cb4a14c0e60af705d6cd9a70394bd0b2619771819d42a63f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e8c044ea165a5ee34ac1e0f5bf7d029906e2f10fb90a2da207a42a823a03371a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e08a63f242fbefcda138386d0f2274c4f26b33a7aed5e47f3f4d19114b4fb81e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e33c6f49eddd905b964067dd188f8569b23d4e90d62049e6c3c51a3cfdd65d49 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e51c022f4ec0417e7f49994341bcbaf8f344a3472b29f0e9ebe8133962ce0183 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e127ddd2cd5689284e68d053402a7beb446cb92fd014752f6ce2e29d04682862 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e461c0714cdc8508a4d5c81a8db4a19ad6932499927ba8c27e84b4109adecec8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e866a771af6bdab511b82dd0e4aed19ffbdb31280e6c5d65f15d162bc48b3b72 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1647f763f22fa2341d7a810d65f556f2dcc5600aad8f319f6750e07c1826ccb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e02139e4b63cb63ebd64ad9299374f21538679fe5b78b5bb1befea898eb3d904 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e7811091d9c49a697c9973ba35f1e9950a87164b709f4e8e3adc8476be6564fe Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e55698263e6c4c3267bedb99722d326c83f3682c4e9c3606c14b80834ca1927a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ecb6612f579e0616323f9e0ac1c2a57d8e02b106f66022feb153c42c561597d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed01ed25eeafa9ad68bf379c6e9bfb6db2bce7b314ccefe36682836f3939d210 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed836d9fed1f251221f20aa631a92d1ab147eb72e83351cd0586f46b9af50418 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ee9b0a07a9eeb68dd8144a28313a1ef3bf23b64e99896a63bb8b30dcafcb04bd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef5a7a90848207dcfacf603f69177ca6cf1324b5aca40521559b9c8d61ef3453 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef273eabe919849b3a3fc10e25eae4a2f7caf139fb66fdf9ef4a63db6cf8b033 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f0fead7db47eae37685fa803519e2ec9352270aba6c1dbc5c94cb85f17f730f6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f1e8f763d771e60c9d36243537180b7a35d56509483aa1592759fa86f7211327 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f5e9679b5a6aab8d43a9092f533c9548285a99a4d4abf19bf94ade656049d837 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9be7296b53b19fe9c95dc771876d5d723cfaa6c4b1e20cc42291d4a188c1519 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9e9e02db8bef80c175e6771b62f91ea6ffb7af2e561d7c9338193ac31ce1630 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f31e7f10e4357dc478df5a0efca92df29aa8665d63b3f171a494d17452e73c9e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f69c8e729fe425f7dde5122ec8c2103f95b4f18de9452346260142768b40a10f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f70c8167415f07624853a6c5b469fcdbe9fe16cfbb5b5b276a2d8e04ac5856c3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f210dda9e8eddf271d85db648b1e81ceeabf5e62ba6424d343cba3c560c84ea5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f3914b5455c4026eccd75fd96f956804499538f620aa01f26f2631a598d07590 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f28090fec07d253301d0240c123e07dd7924a1c61d9c9ea102930929d32fdd93 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f59407e767b7d7da2190ca4b92bb3adc7f46984dde5d6d44ad01b134d3cde4d7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f932874e579a57441693dda0eecaa7e19f74399ba958150b08d23bc804035532 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fb18ce299efc5f02ee9af60f37ee2e05c2a9a1b5dd43ec8c949acac3e928961d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fc81d4b6e13d7a09bde1f5d79513df275c338acde1f4f3e2395709a58fb51e78 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fd8f6db8ca22e26e8b765b66342e645c6ed767d38c3fe324dd61b414939dd9c9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fe3b021443c1462b7020b82291ab2279508a0bc731132dcd1edf722b947c2c05 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff02df171e7a0fbbe050c44b1b7777442b1d6246362c58a188f01c187d7e9e38 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff972aea14b378f14f92a4fc060781777e397712e37486047aee09209fed89be Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ffbe67ae4664d65a0c1d696e343f25c86fa46eb0fd640091d4b879c2ee6c9924 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-kafka_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight_db-data Delted Successfully =======
+
+Deleted: sha256:648b17c0c1d1caac62a9a04e71af7cd5611e03440bf6e2aaa2df5d4de35f6534
+-n 
+======= Docker image with ImageId: 648b17c0c1d1 Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: postgres:12
+Untagged: postgres@sha256:fe84844ef27aaaa52f6ec68d6b3c225d19eb4f54200a93466aa67798c99aa462
+Deleted: sha256:bc02a3fd9d66922a2b84176b6c97c7e010a65edbc66207a4a6cf82ff5f943ef5
+Deleted: sha256:cfc74e964bb5ff4abefa1288c99e6f8e980a3abf459e8b02ba381bef053bf8e7
+Deleted: sha256:3419a2ab0dd0752ab25c5bcd1cfca337f72b01cf5c97e01f9ece1a96f952a187
+Deleted: sha256:51f2896070d63223df270da7bf0d8afaf0eb16affcbb0d4a3d939b89839bf3d2
+Deleted: sha256:010c3192a82c662e8220e1840422b36df5cd5258f34cc71042dd91780f2996fd
+Deleted: sha256:17a1d4d2e5011df82bbc6a8164cedef7d0e5d7553e133dff0f967182765b8b24
+Deleted: sha256:3a70523d280c8b4996fcd744fdaf78947a893379e2a66a55b8cb521904a415f7
+Deleted: sha256:951723d537e46a68c0d9c3481fcf2da76a802c699325d009f81e4eb554781369
+Deleted: sha256:15a422d5cc439b961bdbad7a20049b16da206906f1b38f81d86f7f0bc078a2fd
+Deleted: sha256:3459c51d6882b970b575d6df53336641ed64dfc6d6bee42ddaf788c46a361726
+Deleted: sha256:90545f9646db23cd2e9759e9665888744623cd83a98e93aca9538c172ea8b3cf
+Deleted: sha256:1370822ddffdc745b805d3997c59b4ccc299ab1bbf60a06a89c58a1ec81f145a
+Deleted: sha256:e9195a0ed2fc9be10687915094405116ad3d04563436d7cb15117babf3c3e466
+Deleted: sha256:ad6562704f3759fb50f0d3de5f80a38f65a85e709b77fd24491253990f30b6be
+-n 
+ ======= Docker image with ImageId: bc02a3fd9d66 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0a3b4b9eebf09ebb9a204d649c3d512992ecb4ccd7f851a5d5d00fd290a7d3ec Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ac2ba1387f5989c73b86d160ec09a8b05054fabc253606dc8f2749d6fd6c97d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0d63b67be2d07e14ad0afc663c0a123c365bd19d2efa4b10554ba91f4683171a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f3cbcb3bdd5ad707b14e1324c8c93df02d9f8ffdd768249271f0dcea52a949a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f4dbf030c7c9b43efa5aee525f48a5e6dc7dde9db4b80642960afc46bcab15f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f97138076bf3ece910af71fca5d3797687046f4f5e15ce8d82ccbd61c4f9be6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ff57a27ccbb65c990cdf99670316c1d9b38478b3d83428668176a396f90f179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1a61e92ad9f94cd7eab48dd6935290f00321107788a4af47ed3951384bd7cd8e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b2ce45190d71f91113edb88784e0ad27c0468d9f4e5dfe0173191e696264d74 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b05652ef03ae654d8adfd944c9b02d1abd53b9fbc32f9f2bb4e2fbf1b203da0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1c807c2d1f4e1c5b048bc2d042c845c3b2b20c126baa8c0ce39096876f2d6bd5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1ce52e31e4636ea48453468b46cd86fd08f71f6bf794cae5cbe2973be938420b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1d7481cddd5e4b5b00912365088f3abc52c69e27d581224453fbaf6b92e5ef1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1df792e005a6866d071c799ee577d0cf445c8d3aec23a591d0eae16dce0cb47b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f07ca7f425fe2a37f6404d439413a520e8c3d7897cc916d4126380180f73348 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f58bf9bde50b70d1fef5e84e4298d608cb65066d7a84792eed61d7bd0019016 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2a0b15e4a56a0c884473353824738920ecd9c746f94157202fa1d0ddcd45849a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2b3f9229698af87702a3eaf6ebd410296afb528f97a84d495a3c5e278018f022 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2baed490b82ca90e2fae0ddfdc803d29b756b8220a1e11f03cb9a71bd5db986b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2d385dff2fe8ec8da8484858039ee9334a36914958e18929e32d149a01c1adfd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2e1cfe08f91f62087cb2bcc6fd8e2e26944fe20ad5e6b64c8e201cd4a0ad6440 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2fdf8b4317534ea2010e2a076dadf4c71ba5da32a54e7b2632b6dc76e797fe42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 002f26912e5f0ac984d200e5568840ed6e54d50f7bd19688ed2032de95c9d65a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3cb790115e71dfa50292cfce27fde9203b49dca1d1a9fd363282b4d6b77a3ca8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f249ac370738412d7b4ecf070f3616d5a4c0af4c758ede3031a449b92bbf50c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f9033e7d1b591c8ee37f9c757e354e8b17c240e998cf74acf19e2e96454e2f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4c1d1321acf1e311e36c3b3c2008c795218c650c1a87ba0604bfc29ef30cd55f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4e830b8b50554b98cb3e16df6b4b40c8bc2351fde4583b7c27c044f87c94e83d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4f86b4acf64669cdda3c7d61bbb1aed6533aec51d02d75bdf19da46712a140f9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5aecbfc63284ea13b222295bbdb6bf5ff6c65ffeb0b0d91b6f2874db33ac3f9b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b5a5def47a1a76893774be4ff27c932432fae5fa5096c5ab4cf01f3e5cf1bff Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b03829796eb3a58e16e5331669dfcff609ca07fcbceac9f60921fff068a61c1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5eb5fec4a60b1a19de82c479551596a6e7bc42a5220c80db190b93d8d9834325 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6ae9fb96b8f3ca9472ab78ce68f6222fc5aa5064e99bca47a2fdf8f7e73e66e4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0c2a3b27f9dd671bb5e9fff54998bc0e25db520687661334d307ea2600acc3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0f8aa7307e5d38903328ff795d4d34374c2d43b17df568e7a0de3407a2944b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b710c41ce8433c41d60e8979b02c3281f39baacf14be50eb6bc5ae398a34cbf Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6cc00a8744a0e9e1af8b14a4b57b0cb462b8bb59eaaf8aca638dcb6d36614711 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6d497377884c18990cc7f9e3efc251811a354d13cb241012e92642317b502019 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6f72619fd10dd421bdd41c09caf49ac8249a85331f415f18c1abbf1b958cc342 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7aab09bd18347ff1b6129c376464d6d5cb5d904f2ef1f237c3f54ba03d2d3a73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ac573d1f5bff68ee68c4cff4898e8573b8587abea3f89587908f48791169b21 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7c4a0f68ac45c38735ec1fb5a377065b960b12c8d1babf399cbdd9a7d6311264 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ddff07aa07a1bea622dd07c7306cc20cf20417ad6c3a44d59a6f0259d6c5db3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e4a4fe9d4d2ebc4722e68197b8ac77bd1e6f22eb06dd3610e0f55495d537881 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e05a46754b9c5103abbf4f203dae6fdcc0f813477add4958d8efc54038ecf27 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7edd7139500b8aaba11beced4803871dc7ce48d0c64d24768d7f23f81aa5bf5c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7f43f57d34c177d9a87ec8c2e8ad65f69400866c6a421bed8974b2bcb2bcb6c6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 07e0c4bcadb675bf3fcf9caade5712b41870bb612a9855e54342b962ddf5692f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8a7aba0c0428e703728f847a14138050e97c4356d1a1a651859fc5edbbcbbc32 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c4cb5b8b8a3e8fb0586ecdd1b97c74860689bbec739eb38554b1b7f8b44a99b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c7358ae1fdf5098588402026e7c16c001a5b9ea4c755ebde0fff0a3899224b2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8ca84131da9c744c7e074d836c9d27125a572088ad03748705626ed0b8fd6d08 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8f2800f3e6ce668f7bc886f2d7654304b837fe43d26f55d43379f5bea95f81a7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9b71dd7cee8589b12759298c2d3a4b13f920f73dfade4fff834f58d2fdd98ed1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c995bd49ee22e4f710729bfb4fe490d4e04a88de5104d64b6b7abfda2a87127 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c2032ddabcbbb6f04ade49324d10e8e6c28aab5f130ea8a43eb9673e06bd07f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9d3bd0e5ce528e91433a756153b4cf38d3d734fa0f3b5d0fe8ae6d5802c01d9f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9ec9297b4e158d3aadbc999e560b8cf9c3af85bc6ae176ba5e8cee4ad58032f7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12b04d51b1bcb70620eafadaf599002586db3aa23369697e6e3635f7e92d23ee Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12bc71c0e68e17493af2839c30d4d9e017ab82c9a4ac28be787c551a014dd7eb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14d2683d362e76b8312d59ee288eb5581a9cac7211900b928da4f8aef5f5f37f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14f5cc5b0eb99336b7c595ff3cb5f8e2cf707b3f24bbe41627fe47c327684a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 16f61fb0e3a9cac86a6575090ea8cd40a5d89eff5b5b0beadd5d431a53e665dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 18d33210dfabb65961295365e452cdb1f4b8b08b23d1a495cc02507ce65a241b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 22f0d76f35ee4cee3131c1f1ea1a0725a222e8514d82351075dad60db3aba311 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27b22c0adf0e4f999a3dd5662e4447c01098601ad610b21bf9fd01199507df17 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30c8e5d0a5338784951d760d7f0bec8a31bdf6883f7de01dfad79defa3f1bb09 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e76ff1ab8fe7ded048f9a173fc50a64a37d50cb761d245b3fd37f71a9ab1e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e12601e0528968f9aee7be4eea205aff29bc498d411a629a7ae82434eecc01 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30f7ac36b51735096f1068737b38b75f06614fd8f8d32d984736e316c9f711e8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 35e4e5850a5d946d4bb775e30ae5f517287cfe6d61ee3c291d82d7b71b5a416d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 36f904b26e3073dfbeb3ed1f1d48b8b5babb6a4fa5ac28cd6b522e59b8f67fc0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 045d53c9b58a325a664f8b577937d6bfcef947639acee32b0f9b26d4f1dd23a3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 50c59d0978e7ab12e4e9beb24a6bad5c080a0aebe23c690f1eef39e7e2016620 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 051c40e320d9d71cb9e49ae3f3c26b25ab9a49baffad45e8237b7f978c604963 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 54f20cd1342eb4180c6e62bb5b8682381d12952c757b05374e811ba037a0d880 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 64ae6c68134e4f4fc2dbbf0d3b1806d44e211f06d09634dd6b559328a1c4d34a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 69b80c574654794eca61d06ff2228a256c674eecdce2e021594ea9ba7edbdcd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 70a4fd60034b5478a7cdd5add5a366595d7bbc2b2e380df149d58cc25518243d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 072c00a4e80bdb8186b50191b91f7a1d2113dc4ca0b811eac77d6b0a764d3b3c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 86afa3cb55ea6beb3866ccfe2bfb8e2b9ad6228c3b6a5be88670409c6197bb0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 87b4280f42c95610cfd6e0b91338e2f2fec1a83e6d13571e28e1605525322f8d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 88a3cc23474fe86212468ec71a3628ca25e5c5f37fa54dcf831b9ddd5e6d6a98 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 90e93e62af4e9b43578a276878239bc20d5771481d41d6d890f970b6b924659a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 91def0e2d13daf54a9b518ac1ff11cf81a62e0c860e35c5e17e30b6df7624a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 92fa73bba06b00e088acaaa7fe6bbb1386cac302239214ed8b5f5fba51a10549 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 97cd69746c840e12de294ea24313501e48e71617d90765f243a4e7721c277df2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 129fb8741a6e55f46994f65423c641ce78ecdfc96979a54e3bfdacce46cb77c0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 153bf8336910b43badfb5fe9c2894b45cda0687adf0145120823ac63f0fb09a5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 231b737299ff49beaf4602662614210053e50910819c154ba7639393b24cc64d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 319bc944c6b0a9a79b1b07aa6bb5bed7d8e695021cc605bacf1571e324d0e3e3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 364df6de4bf81685d23227b43bab3fcb19a62f91849971f62a832b118d36104f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 365fb766225dbb9112ac229eb93a2437095ec25bb61d0a7a86922f384e016a89 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 377cfc98a1a56742f5bc22d40c35b9c8d5f41c4c5663b351a9c2ef2a172292a4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 397e07572034731f12a43717d5f34a5de6325290d9e1604eaff65a47ff37dd40 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 428de786615a608a321970baf59dcd73df3f7df8fbbc70fa9199ff5204f9b8d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0451cd03699098320d96a390f62e3ad58534fff39f486659a2eb3c20ac7d6381 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 481f6e30d9c096f35651652f9196373fb9645ff1f1ee94ca81bd31fbef08591a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 501c5323555c10af90cee640f8728b84b7417eeaaa1f653306c8f253604baa0b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 503c1bdd321fc4fbb143ca7835959378bc0bf63cd93038306152542392a2b7e0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 533e9d7b7f662096edafa7ca03b3cdf3dc5addf20b94422b1384c3e45262232b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 543a0035dc4bd68c0abbc1e15a4e4b00b082d657796a8922274cedbc121886d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 545e856399054b9f212d9bb42827ef84e6f8e51f1d8e453920f61dc45a013d0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 580c6501a38be59f2806933dad1bee78ad3f5c935ccd49277429b810283733c5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 705f672e09534671f4da1033bce8d2ebadf78ee7d7853c04ff2028a8c75b34f1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 737b419705e737e33e8983f8078755c01a66d1a1ef71d2b36596a5b8f0abdbad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 804ffbc1fbb9f37019f982c536e6e98bcdb20a0f40e07cb2d6abb5fa8d5fb179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 834c258775ebacd9526c47184ffb34ad6bb3464752bf6d8d8f13138b78d7d2ac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 899ad0365e97559daf2b4c196d6588c83daec3d356068faa415b75e563f9dd46 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 950be31edbf5e203e45c7a743515532d0a38e17caa68c45f17a9198a068b76c2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0993f1632c42a52351bdb750afe80e9ad33c1cb049dff5b7c7ff5a16f9d90fad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1986f073ef8f53f9a94dfc275cd2160df102babdbce2a9d20a72c25c87e92d53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2426dc525287e5f0cbec348fd85939d276efdcbde6f8097bcaf2a5b6b51955b8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2966b6aac3a8f3ac916b77b30c855d907a88ddbe72eacab02e4b94f1dc29a9f8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7321fc6b6c569380c29860e2828ed2706719a388e5d78f6c737aece88564b2cd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7994b53e5fc46f2f5c4609fd5dea8f35034aa1364578a72bf903bcab1ff10979 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 08192c8887482e52ee5dfa15290fd4732a60e6e7556b580c2b6e3a4d9b598e5e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9065f8c6363560050650b17e303caa2cef4ef247f1967e8272078f6e36f2bc19 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 10455a13fdef747248c9db0e12d781f088d6a31a2b70f2c0709be9ebd08cbbf3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 17821d6d98d1d5e6d8a9903b263f022132223344b96d262f32ef8f0fa1564ae7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 29566da939f4c32b7df2d6e2d339c506164a60711f78d3783f748e988ee69bb9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51437b6e855242b175b1580df8e923705c79379b0884c6319ac70c81655af1f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51485ecbac1aac02888ded4aeae64fafd74525bd6ae2bf73abbf76a34f0b5aae Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 82621ff0d5882b47e8c5f30cbfafbc64e9553f2cf76dbe0a802df4b84dc97797 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 138188fcdf121db1401142ea0f610d0018b6d0000b4b39dd735ff4eea8dd38b5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 256367abc8437d5b5069a2914c57349cbf107c9dea593a24e21edf8b532c9c1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 283198af3e2c07c3e87b3966137e1a9ce44126352cab2894d5f397cd0a3e5d23 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0770414e24fcc35726a8f72d0add03c78a5fed7a751cc2265e30f7cfa0b3b90c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 932809eeffae8f538e25dc90328c90b24281dd36d7b046b9ce1a7853af474c6d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2726470ee81c99ee790e5bb9a6e41ba0ffa8afdb1c782f054e7ff2bfffbb08c7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3552211cd5744f9837158f2b83d6ee820f33a78a93512f862c9351211a1e0af0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4794409a4376020814bfb08974611e2bf296f189bd9afd0092c792e506c45b77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8117816f7d5f6ad97eaab1769af53cc9a5edd73cb28f863c6a9f51b1d3ea2346 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27588568c8af69488b0fefeba29590e24b76b6f735eca12662352ea051579164 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 215776887f528185f92563aa75bdbb5caf73b992ff582616c5abd31fa4abcfd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 483274121d4bf6964ef34278b3ac019ea5ec3e4f8241abb60614881143ee9e1a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 592630171fec817264d506df06f8bda9749f73683c9cf574ae2d99e979a24da7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1945118902ea38001573c6e36a4eeb3c8627679c3275e47c477566ac65234cb7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2519298360dd47e4328b79c7c73c104decf6e5e3a2b8c8977004a910a4c6bdaa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 94586336316b255fc0a1c6783634074d60ce437980c621ee401ac35a7c8b588d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2ba2dac5c9e9b5f19b39deb05080241861072382b92df414fa1924bae75fba7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2f778297293110a1ca0637247782951e58306249e0314b344c52afc4f95f378 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a8cf599304f13b67ae1d9be6633314d25ae6cef9783ed6bc05a9cb9cd3294e03 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a33a2109da8eb0e7d40d251f2c22297bedd06766df2bfebbfe3e41f726669655 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a47f902a08c460cf15c6a6e85ae2b5b0fb68502eebedb960ac4c657567616d71 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a86db1f8b5a80d790c505ba767a26b62bbd9040d6542f504b4f8527143a96801 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a98c755c5637b2a60305c16dd6ef971d48b687bb0d52b38bcc5f553067110ee6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a312a9a685971fa19c858af36dfb0a91be28874480d6d6e4c7bdf2297bf3477e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a372d304a927b1a4e2a7680ef4e881d9a622e75573d690993b52139ceeca4f86 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: aa5c7d7a2687e41ea95b7810ed40746f55af91cb689143ac8711e2c52df562e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4633dba0f670d629e08634d2aaa70d1617b916b6f3e1d7a6c41fd23ca46e75 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ae872eae7d11aad0ef32b7b4c892c7b3ffee66aee3b85bf0bf30481ff24bdc99 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eb4918c137e9d0f1b39febd42693bfde5f89b722c11761e7adf108ab95a97a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eedb91fa7419d3833e20b38539f8799c947e7aeaa888850a899f5c84765b3e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b15dcccf1cb42d8b9a2d4a082c2ce37afda540bb25df99041a799e15fefbf110 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b83f1be43edd556cbf2ba55a2f6c29f228e6cc84952756c94f8ac5f8452f177c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b88ba38c298dd4e25cd2bee1a11c7b61fd9f16b508250268769d75ca1bd4735b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6869dd7987cc9edd46406d0383715e8d4a81af152b746aefa1a65f34974fbe1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b45677fd6bf1c98026b37e333a8fc8c5e152f70c8a92e900db3635f640a70156 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b2800302bb074d7ad4d2aad489d9a700fd2ee2e5832358763bd3e881d46c91db Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ba13cf1d801c358fb2ff1bcb643ec5896796d7b910100b95f8a4b31a93326b4d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bb1520491a44941e709f9b65710e795aabd59eac6fe31b3b6f593854e54c1972 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bca5248caf0f365062c18f0fff32b57eba74118491e96111c61145433b467a33 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bea0d3d15382990edec5425faaf6f4883a47c2a1fc182598031dd23157e232cb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bf70f3b3d7e94a62cf0ff2c07a85674dba5a2d3c12d8d3b258c50ebdcf4e145c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bfde57b47de6df634706178a771c2b218afcc60a1bf2f72734c6df9984495451 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3c5797dd55f50f36349cb5977f07d8f6b24ad87c7ad9ee547fe0f45d8425014 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3f888d82502ff92b7d9943386e63c13caf8a089b092bb0386017d382bd056a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c16c4af2c8e7b2e54eb5320379888e3d58b3c1a5064fb08b754e8d06ff401c88 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c68c630b8cc812d1549c99acf12bd094b425e1227c5c93edb4824847646707f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c082b22986b409bc91e7d242705b7df3659de57828e169b2091527a6f2f18230 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c137d630bea04c178a90c33f6d5680ac551b5af6a875442aec73634c48712abb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c2251bdf47f4c88bd7cc85904a8438f06bfbb0b3f22e1e6fe0b9b53df8fe8c53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c6353b83a19750cc66711feb5b0d2788270eaba830c8d1dde01b2de4771d1e51 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c8899d30975c500da8f9a9983c185fcde3daf67fdfe9d6fee9fa4e81d618bf04 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cae7572d5d6bcddcf0ffa1cfc6252e08e0f49b96449d16729f4b0a8eba418176 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cc8699980423f162535ee9866ba21ad6dcea12c1696c08b9e9d2565358c58158 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd1cc5d05b046f924bf7d33d03babb1ed9350a45f1afda145c27274280d84df5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd2054c346c7b6e17d977daa9809cebe578e58e7927a42154cd4cb04bc3df596 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cdf62cb223e1a53d47882353de2cd51673e31ba65552c042cde389cf5ea8ee81 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce873ba5cb37b11a627bbafd862e727d8c8d468a164c35e1fc7eff080e98e13e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce6469644ec0777b5a7bfeea5edfd8a7748508b004d03e91412c211f7c80028c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d00ae2ca5484292f02e84f73028925f31ac24d47f0f7b19732e6bd5d70b3952c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d1f1875d3c0db9186a7fbc8810b1577b95c57df11f2fafc1e0763abd9c0e5b73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4c0b5a44c362f7b7c24dbcffc1a2d7a167905642540926d83fe454390708afc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4daab5130fc79d287ac49bf1317061041bf06e37ff364da2579b197b2de78d3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4fd6081241b851642eb96833ec79462c2fa18378a30fff539ceb949afb627dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5a4a14c21c3ef32493458017f5f2a3b55ae84eee64e6c9831cba7430e7dfe77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5e3750e62ac00b84f9451d491c815af81129bd9238c43483955f76e5689deb3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d29dbf3ccd31e7e29f6676b88aa95e8db400f6c37dfc4f1db0c082d0920ee8a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d49ac7a377818da71cbe2829954cc2a2fc4c7a76499458459c22f54a5fb835aa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d73b6ec8d67d2d99e6d3d2bf009b88638a5d16419a424c15b0697189fedb409e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d99ca630f737f457ab31a341f5f3fecd57c32d1c740c46e7fd78f79535539236 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d963ab9d84e0ec22f313c0412c45362591b74002b647c84dd935080cadcc9c42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d7772ed0c3ee121d42a95ea2029685c4f2bb8efdf3042f1172abbb27f25895fc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d827022bb1871e34160f915b56d8d0513980a6f1e13f6691da51e5c73934698c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dbed522fd27b4e5e8f5420ac836d542f198fd5967237a98292975547cc41a4e1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dcc50f0f78756d6674cbc6e596c7046550c181d265cf904a2037fb93fd426e2a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dd5baaad0c080a9cb58c070fcdc9c6b0dfef9a5579c5b90c94dc79d6ffe1d721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: df747d4ff0d22313d095a762e5329ca40e691901e6d40071e2eb2e2604e08d8c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_pgadmin Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_postgres Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1ae5d9013c49ea9d26f2ca58bc5bfb258725119bc88d86d4cff81df3720a713 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1e76da548a192e57dc2b39345c797729095db34f0d7dcb8ef6805f5a5480716 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e07cf77b8e4d8e8cb4a14c0e60af705d6cd9a70394bd0b2619771819d42a63f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e8c044ea165a5ee34ac1e0f5bf7d029906e2f10fb90a2da207a42a823a03371a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e08a63f242fbefcda138386d0f2274c4f26b33a7aed5e47f3f4d19114b4fb81e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e33c6f49eddd905b964067dd188f8569b23d4e90d62049e6c3c51a3cfdd65d49 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e51c022f4ec0417e7f49994341bcbaf8f344a3472b29f0e9ebe8133962ce0183 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e127ddd2cd5689284e68d053402a7beb446cb92fd014752f6ce2e29d04682862 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e461c0714cdc8508a4d5c81a8db4a19ad6932499927ba8c27e84b4109adecec8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e866a771af6bdab511b82dd0e4aed19ffbdb31280e6c5d65f15d162bc48b3b72 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1647f763f22fa2341d7a810d65f556f2dcc5600aad8f319f6750e07c1826ccb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e02139e4b63cb63ebd64ad9299374f21538679fe5b78b5bb1befea898eb3d904 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e7811091d9c49a697c9973ba35f1e9950a87164b709f4e8e3adc8476be6564fe Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e55698263e6c4c3267bedb99722d326c83f3682c4e9c3606c14b80834ca1927a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ecb6612f579e0616323f9e0ac1c2a57d8e02b106f66022feb153c42c561597d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed01ed25eeafa9ad68bf379c6e9bfb6db2bce7b314ccefe36682836f3939d210 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed836d9fed1f251221f20aa631a92d1ab147eb72e83351cd0586f46b9af50418 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ee9b0a07a9eeb68dd8144a28313a1ef3bf23b64e99896a63bb8b30dcafcb04bd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef5a7a90848207dcfacf603f69177ca6cf1324b5aca40521559b9c8d61ef3453 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef273eabe919849b3a3fc10e25eae4a2f7caf139fb66fdf9ef4a63db6cf8b033 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f0fead7db47eae37685fa803519e2ec9352270aba6c1dbc5c94cb85f17f730f6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f1e8f763d771e60c9d36243537180b7a35d56509483aa1592759fa86f7211327 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f5e9679b5a6aab8d43a9092f533c9548285a99a4d4abf19bf94ade656049d837 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9be7296b53b19fe9c95dc771876d5d723cfaa6c4b1e20cc42291d4a188c1519 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9e9e02db8bef80c175e6771b62f91ea6ffb7af2e561d7c9338193ac31ce1630 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f31e7f10e4357dc478df5a0efca92df29aa8665d63b3f171a494d17452e73c9e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f69c8e729fe425f7dde5122ec8c2103f95b4f18de9452346260142768b40a10f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f70c8167415f07624853a6c5b469fcdbe9fe16cfbb5b5b276a2d8e04ac5856c3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f210dda9e8eddf271d85db648b1e81ceeabf5e62ba6424d343cba3c560c84ea5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f3914b5455c4026eccd75fd96f956804499538f620aa01f26f2631a598d07590 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f28090fec07d253301d0240c123e07dd7924a1c61d9c9ea102930929d32fdd93 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f59407e767b7d7da2190ca4b92bb3adc7f46984dde5d6d44ad01b134d3cde4d7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f932874e579a57441693dda0eecaa7e19f74399ba958150b08d23bc804035532 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fb18ce299efc5f02ee9af60f37ee2e05c2a9a1b5dd43ec8c949acac3e928961d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fc81d4b6e13d7a09bde1f5d79513df275c338acde1f4f3e2395709a58fb51e78 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fd8f6db8ca22e26e8b765b66342e645c6ed767d38c3fe324dd61b414939dd9c9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fe3b021443c1462b7020b82291ab2279508a0bc731132dcd1edf722b947c2c05 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff02df171e7a0fbbe050c44b1b7777442b1d6246362c58a188f01c187d7e9e38 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff972aea14b378f14f92a4fc060781777e397712e37486047aee09209fed89be Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ffbe67ae4664d65a0c1d696e343f25c86fa46eb0fd640091d4b879c2ee6c9924 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-kafka_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight_db-data Delted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 0a3b4b9eebf09ebb9a204d649c3d512992ecb4ccd7f851a5d5d00fd290a7d3ec Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ac2ba1387f5989c73b86d160ec09a8b05054fabc253606dc8f2749d6fd6c97d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0d63b67be2d07e14ad0afc663c0a123c365bd19d2efa4b10554ba91f4683171a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f3cbcb3bdd5ad707b14e1324c8c93df02d9f8ffdd768249271f0dcea52a949a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f4dbf030c7c9b43efa5aee525f48a5e6dc7dde9db4b80642960afc46bcab15f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f97138076bf3ece910af71fca5d3797687046f4f5e15ce8d82ccbd61c4f9be6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ff57a27ccbb65c990cdf99670316c1d9b38478b3d83428668176a396f90f179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1a61e92ad9f94cd7eab48dd6935290f00321107788a4af47ed3951384bd7cd8e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b2ce45190d71f91113edb88784e0ad27c0468d9f4e5dfe0173191e696264d74 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b05652ef03ae654d8adfd944c9b02d1abd53b9fbc32f9f2bb4e2fbf1b203da0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1c807c2d1f4e1c5b048bc2d042c845c3b2b20c126baa8c0ce39096876f2d6bd5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1ce52e31e4636ea48453468b46cd86fd08f71f6bf794cae5cbe2973be938420b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1d7481cddd5e4b5b00912365088f3abc52c69e27d581224453fbaf6b92e5ef1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1df792e005a6866d071c799ee577d0cf445c8d3aec23a591d0eae16dce0cb47b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f07ca7f425fe2a37f6404d439413a520e8c3d7897cc916d4126380180f73348 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f58bf9bde50b70d1fef5e84e4298d608cb65066d7a84792eed61d7bd0019016 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2a0b15e4a56a0c884473353824738920ecd9c746f94157202fa1d0ddcd45849a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2b3f9229698af87702a3eaf6ebd410296afb528f97a84d495a3c5e278018f022 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2baed490b82ca90e2fae0ddfdc803d29b756b8220a1e11f03cb9a71bd5db986b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2d385dff2fe8ec8da8484858039ee9334a36914958e18929e32d149a01c1adfd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2e1cfe08f91f62087cb2bcc6fd8e2e26944fe20ad5e6b64c8e201cd4a0ad6440 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2fdf8b4317534ea2010e2a076dadf4c71ba5da32a54e7b2632b6dc76e797fe42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 002f26912e5f0ac984d200e5568840ed6e54d50f7bd19688ed2032de95c9d65a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3cb790115e71dfa50292cfce27fde9203b49dca1d1a9fd363282b4d6b77a3ca8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f249ac370738412d7b4ecf070f3616d5a4c0af4c758ede3031a449b92bbf50c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f9033e7d1b591c8ee37f9c757e354e8b17c240e998cf74acf19e2e96454e2f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4c1d1321acf1e311e36c3b3c2008c795218c650c1a87ba0604bfc29ef30cd55f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4e830b8b50554b98cb3e16df6b4b40c8bc2351fde4583b7c27c044f87c94e83d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4f86b4acf64669cdda3c7d61bbb1aed6533aec51d02d75bdf19da46712a140f9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5aecbfc63284ea13b222295bbdb6bf5ff6c65ffeb0b0d91b6f2874db33ac3f9b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b5a5def47a1a76893774be4ff27c932432fae5fa5096c5ab4cf01f3e5cf1bff Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b03829796eb3a58e16e5331669dfcff609ca07fcbceac9f60921fff068a61c1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5eb5fec4a60b1a19de82c479551596a6e7bc42a5220c80db190b93d8d9834325 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6ae9fb96b8f3ca9472ab78ce68f6222fc5aa5064e99bca47a2fdf8f7e73e66e4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0c2a3b27f9dd671bb5e9fff54998bc0e25db520687661334d307ea2600acc3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0f8aa7307e5d38903328ff795d4d34374c2d43b17df568e7a0de3407a2944b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b710c41ce8433c41d60e8979b02c3281f39baacf14be50eb6bc5ae398a34cbf Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6cc00a8744a0e9e1af8b14a4b57b0cb462b8bb59eaaf8aca638dcb6d36614711 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6d497377884c18990cc7f9e3efc251811a354d13cb241012e92642317b502019 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6f72619fd10dd421bdd41c09caf49ac8249a85331f415f18c1abbf1b958cc342 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7aab09bd18347ff1b6129c376464d6d5cb5d904f2ef1f237c3f54ba03d2d3a73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ac573d1f5bff68ee68c4cff4898e8573b8587abea3f89587908f48791169b21 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7c4a0f68ac45c38735ec1fb5a377065b960b12c8d1babf399cbdd9a7d6311264 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ddff07aa07a1bea622dd07c7306cc20cf20417ad6c3a44d59a6f0259d6c5db3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e4a4fe9d4d2ebc4722e68197b8ac77bd1e6f22eb06dd3610e0f55495d537881 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e05a46754b9c5103abbf4f203dae6fdcc0f813477add4958d8efc54038ecf27 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7edd7139500b8aaba11beced4803871dc7ce48d0c64d24768d7f23f81aa5bf5c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7f43f57d34c177d9a87ec8c2e8ad65f69400866c6a421bed8974b2bcb2bcb6c6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 07e0c4bcadb675bf3fcf9caade5712b41870bb612a9855e54342b962ddf5692f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8a7aba0c0428e703728f847a14138050e97c4356d1a1a651859fc5edbbcbbc32 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c4cb5b8b8a3e8fb0586ecdd1b97c74860689bbec739eb38554b1b7f8b44a99b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c7358ae1fdf5098588402026e7c16c001a5b9ea4c755ebde0fff0a3899224b2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8ca84131da9c744c7e074d836c9d27125a572088ad03748705626ed0b8fd6d08 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8f2800f3e6ce668f7bc886f2d7654304b837fe43d26f55d43379f5bea95f81a7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9b71dd7cee8589b12759298c2d3a4b13f920f73dfade4fff834f58d2fdd98ed1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c995bd49ee22e4f710729bfb4fe490d4e04a88de5104d64b6b7abfda2a87127 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c2032ddabcbbb6f04ade49324d10e8e6c28aab5f130ea8a43eb9673e06bd07f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9d3bd0e5ce528e91433a756153b4cf38d3d734fa0f3b5d0fe8ae6d5802c01d9f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9ec9297b4e158d3aadbc999e560b8cf9c3af85bc6ae176ba5e8cee4ad58032f7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12b04d51b1bcb70620eafadaf599002586db3aa23369697e6e3635f7e92d23ee Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12bc71c0e68e17493af2839c30d4d9e017ab82c9a4ac28be787c551a014dd7eb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14d2683d362e76b8312d59ee288eb5581a9cac7211900b928da4f8aef5f5f37f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14f5cc5b0eb99336b7c595ff3cb5f8e2cf707b3f24bbe41627fe47c327684a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 16f61fb0e3a9cac86a6575090ea8cd40a5d89eff5b5b0beadd5d431a53e665dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 18d33210dfabb65961295365e452cdb1f4b8b08b23d1a495cc02507ce65a241b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 22f0d76f35ee4cee3131c1f1ea1a0725a222e8514d82351075dad60db3aba311 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27b22c0adf0e4f999a3dd5662e4447c01098601ad610b21bf9fd01199507df17 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30c8e5d0a5338784951d760d7f0bec8a31bdf6883f7de01dfad79defa3f1bb09 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e76ff1ab8fe7ded048f9a173fc50a64a37d50cb761d245b3fd37f71a9ab1e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e12601e0528968f9aee7be4eea205aff29bc498d411a629a7ae82434eecc01 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30f7ac36b51735096f1068737b38b75f06614fd8f8d32d984736e316c9f711e8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 35e4e5850a5d946d4bb775e30ae5f517287cfe6d61ee3c291d82d7b71b5a416d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 36f904b26e3073dfbeb3ed1f1d48b8b5babb6a4fa5ac28cd6b522e59b8f67fc0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 045d53c9b58a325a664f8b577937d6bfcef947639acee32b0f9b26d4f1dd23a3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 50c59d0978e7ab12e4e9beb24a6bad5c080a0aebe23c690f1eef39e7e2016620 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 051c40e320d9d71cb9e49ae3f3c26b25ab9a49baffad45e8237b7f978c604963 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 54f20cd1342eb4180c6e62bb5b8682381d12952c757b05374e811ba037a0d880 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 64ae6c68134e4f4fc2dbbf0d3b1806d44e211f06d09634dd6b559328a1c4d34a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 69b80c574654794eca61d06ff2228a256c674eecdce2e021594ea9ba7edbdcd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 70a4fd60034b5478a7cdd5add5a366595d7bbc2b2e380df149d58cc25518243d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 072c00a4e80bdb8186b50191b91f7a1d2113dc4ca0b811eac77d6b0a764d3b3c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 86afa3cb55ea6beb3866ccfe2bfb8e2b9ad6228c3b6a5be88670409c6197bb0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 87b4280f42c95610cfd6e0b91338e2f2fec1a83e6d13571e28e1605525322f8d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 88a3cc23474fe86212468ec71a3628ca25e5c5f37fa54dcf831b9ddd5e6d6a98 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 90e93e62af4e9b43578a276878239bc20d5771481d41d6d890f970b6b924659a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 91def0e2d13daf54a9b518ac1ff11cf81a62e0c860e35c5e17e30b6df7624a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 92fa73bba06b00e088acaaa7fe6bbb1386cac302239214ed8b5f5fba51a10549 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 97cd69746c840e12de294ea24313501e48e71617d90765f243a4e7721c277df2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 129fb8741a6e55f46994f65423c641ce78ecdfc96979a54e3bfdacce46cb77c0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 153bf8336910b43badfb5fe9c2894b45cda0687adf0145120823ac63f0fb09a5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 231b737299ff49beaf4602662614210053e50910819c154ba7639393b24cc64d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 319bc944c6b0a9a79b1b07aa6bb5bed7d8e695021cc605bacf1571e324d0e3e3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 364df6de4bf81685d23227b43bab3fcb19a62f91849971f62a832b118d36104f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 365fb766225dbb9112ac229eb93a2437095ec25bb61d0a7a86922f384e016a89 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 377cfc98a1a56742f5bc22d40c35b9c8d5f41c4c5663b351a9c2ef2a172292a4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 397e07572034731f12a43717d5f34a5de6325290d9e1604eaff65a47ff37dd40 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 428de786615a608a321970baf59dcd73df3f7df8fbbc70fa9199ff5204f9b8d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0451cd03699098320d96a390f62e3ad58534fff39f486659a2eb3c20ac7d6381 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 481f6e30d9c096f35651652f9196373fb9645ff1f1ee94ca81bd31fbef08591a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 501c5323555c10af90cee640f8728b84b7417eeaaa1f653306c8f253604baa0b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 503c1bdd321fc4fbb143ca7835959378bc0bf63cd93038306152542392a2b7e0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 533e9d7b7f662096edafa7ca03b3cdf3dc5addf20b94422b1384c3e45262232b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 543a0035dc4bd68c0abbc1e15a4e4b00b082d657796a8922274cedbc121886d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 545e856399054b9f212d9bb42827ef84e6f8e51f1d8e453920f61dc45a013d0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 580c6501a38be59f2806933dad1bee78ad3f5c935ccd49277429b810283733c5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 705f672e09534671f4da1033bce8d2ebadf78ee7d7853c04ff2028a8c75b34f1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 737b419705e737e33e8983f8078755c01a66d1a1ef71d2b36596a5b8f0abdbad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 804ffbc1fbb9f37019f982c536e6e98bcdb20a0f40e07cb2d6abb5fa8d5fb179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 834c258775ebacd9526c47184ffb34ad6bb3464752bf6d8d8f13138b78d7d2ac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 899ad0365e97559daf2b4c196d6588c83daec3d356068faa415b75e563f9dd46 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 950be31edbf5e203e45c7a743515532d0a38e17caa68c45f17a9198a068b76c2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0993f1632c42a52351bdb750afe80e9ad33c1cb049dff5b7c7ff5a16f9d90fad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1986f073ef8f53f9a94dfc275cd2160df102babdbce2a9d20a72c25c87e92d53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2426dc525287e5f0cbec348fd85939d276efdcbde6f8097bcaf2a5b6b51955b8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2966b6aac3a8f3ac916b77b30c855d907a88ddbe72eacab02e4b94f1dc29a9f8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7321fc6b6c569380c29860e2828ed2706719a388e5d78f6c737aece88564b2cd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7994b53e5fc46f2f5c4609fd5dea8f35034aa1364578a72bf903bcab1ff10979 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 08192c8887482e52ee5dfa15290fd4732a60e6e7556b580c2b6e3a4d9b598e5e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9065f8c6363560050650b17e303caa2cef4ef247f1967e8272078f6e36f2bc19 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 10455a13fdef747248c9db0e12d781f088d6a31a2b70f2c0709be9ebd08cbbf3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 17821d6d98d1d5e6d8a9903b263f022132223344b96d262f32ef8f0fa1564ae7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 29566da939f4c32b7df2d6e2d339c506164a60711f78d3783f748e988ee69bb9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51437b6e855242b175b1580df8e923705c79379b0884c6319ac70c81655af1f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51485ecbac1aac02888ded4aeae64fafd74525bd6ae2bf73abbf76a34f0b5aae Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 82621ff0d5882b47e8c5f30cbfafbc64e9553f2cf76dbe0a802df4b84dc97797 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 138188fcdf121db1401142ea0f610d0018b6d0000b4b39dd735ff4eea8dd38b5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 256367abc8437d5b5069a2914c57349cbf107c9dea593a24e21edf8b532c9c1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 283198af3e2c07c3e87b3966137e1a9ce44126352cab2894d5f397cd0a3e5d23 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0770414e24fcc35726a8f72d0add03c78a5fed7a751cc2265e30f7cfa0b3b90c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 932809eeffae8f538e25dc90328c90b24281dd36d7b046b9ce1a7853af474c6d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2726470ee81c99ee790e5bb9a6e41ba0ffa8afdb1c782f054e7ff2bfffbb08c7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3552211cd5744f9837158f2b83d6ee820f33a78a93512f862c9351211a1e0af0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4794409a4376020814bfb08974611e2bf296f189bd9afd0092c792e506c45b77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8117816f7d5f6ad97eaab1769af53cc9a5edd73cb28f863c6a9f51b1d3ea2346 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27588568c8af69488b0fefeba29590e24b76b6f735eca12662352ea051579164 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 215776887f528185f92563aa75bdbb5caf73b992ff582616c5abd31fa4abcfd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 483274121d4bf6964ef34278b3ac019ea5ec3e4f8241abb60614881143ee9e1a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 592630171fec817264d506df06f8bda9749f73683c9cf574ae2d99e979a24da7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1945118902ea38001573c6e36a4eeb3c8627679c3275e47c477566ac65234cb7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2519298360dd47e4328b79c7c73c104decf6e5e3a2b8c8977004a910a4c6bdaa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 94586336316b255fc0a1c6783634074d60ce437980c621ee401ac35a7c8b588d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2ba2dac5c9e9b5f19b39deb05080241861072382b92df414fa1924bae75fba7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2f778297293110a1ca0637247782951e58306249e0314b344c52afc4f95f378 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a8cf599304f13b67ae1d9be6633314d25ae6cef9783ed6bc05a9cb9cd3294e03 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a33a2109da8eb0e7d40d251f2c22297bedd06766df2bfebbfe3e41f726669655 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a47f902a08c460cf15c6a6e85ae2b5b0fb68502eebedb960ac4c657567616d71 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a86db1f8b5a80d790c505ba767a26b62bbd9040d6542f504b4f8527143a96801 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a98c755c5637b2a60305c16dd6ef971d48b687bb0d52b38bcc5f553067110ee6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a312a9a685971fa19c858af36dfb0a91be28874480d6d6e4c7bdf2297bf3477e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a372d304a927b1a4e2a7680ef4e881d9a622e75573d690993b52139ceeca4f86 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: aa5c7d7a2687e41ea95b7810ed40746f55af91cb689143ac8711e2c52df562e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4633dba0f670d629e08634d2aaa70d1617b916b6f3e1d7a6c41fd23ca46e75 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ae872eae7d11aad0ef32b7b4c892c7b3ffee66aee3b85bf0bf30481ff24bdc99 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eb4918c137e9d0f1b39febd42693bfde5f89b722c11761e7adf108ab95a97a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eedb91fa7419d3833e20b38539f8799c947e7aeaa888850a899f5c84765b3e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b15dcccf1cb42d8b9a2d4a082c2ce37afda540bb25df99041a799e15fefbf110 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b83f1be43edd556cbf2ba55a2f6c29f228e6cc84952756c94f8ac5f8452f177c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b88ba38c298dd4e25cd2bee1a11c7b61fd9f16b508250268769d75ca1bd4735b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6869dd7987cc9edd46406d0383715e8d4a81af152b746aefa1a65f34974fbe1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b45677fd6bf1c98026b37e333a8fc8c5e152f70c8a92e900db3635f640a70156 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b2800302bb074d7ad4d2aad489d9a700fd2ee2e5832358763bd3e881d46c91db Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ba13cf1d801c358fb2ff1bcb643ec5896796d7b910100b95f8a4b31a93326b4d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bb1520491a44941e709f9b65710e795aabd59eac6fe31b3b6f593854e54c1972 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bca5248caf0f365062c18f0fff32b57eba74118491e96111c61145433b467a33 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: be6aacb2d254ba4ed66e5ec8fa4986ca81a93528bc38c11ec6c38d78f540c827 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bea0d3d15382990edec5425faaf6f4883a47c2a1fc182598031dd23157e232cb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bf70f3b3d7e94a62cf0ff2c07a85674dba5a2d3c12d8d3b258c50ebdcf4e145c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bfde57b47de6df634706178a771c2b218afcc60a1bf2f72734c6df9984495451 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3c5797dd55f50f36349cb5977f07d8f6b24ad87c7ad9ee547fe0f45d8425014 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3f888d82502ff92b7d9943386e63c13caf8a089b092bb0386017d382bd056a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c16c4af2c8e7b2e54eb5320379888e3d58b3c1a5064fb08b754e8d06ff401c88 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c68c630b8cc812d1549c99acf12bd094b425e1227c5c93edb4824847646707f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c082b22986b409bc91e7d242705b7df3659de57828e169b2091527a6f2f18230 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c137d630bea04c178a90c33f6d5680ac551b5af6a875442aec73634c48712abb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c2251bdf47f4c88bd7cc85904a8438f06bfbb0b3f22e1e6fe0b9b53df8fe8c53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c6353b83a19750cc66711feb5b0d2788270eaba830c8d1dde01b2de4771d1e51 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c8899d30975c500da8f9a9983c185fcde3daf67fdfe9d6fee9fa4e81d618bf04 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cae7572d5d6bcddcf0ffa1cfc6252e08e0f49b96449d16729f4b0a8eba418176 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cc8699980423f162535ee9866ba21ad6dcea12c1696c08b9e9d2565358c58158 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd1cc5d05b046f924bf7d33d03babb1ed9350a45f1afda145c27274280d84df5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd2054c346c7b6e17d977daa9809cebe578e58e7927a42154cd4cb04bc3df596 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cdf62cb223e1a53d47882353de2cd51673e31ba65552c042cde389cf5ea8ee81 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce873ba5cb37b11a627bbafd862e727d8c8d468a164c35e1fc7eff080e98e13e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce6469644ec0777b5a7bfeea5edfd8a7748508b004d03e91412c211f7c80028c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d00ae2ca5484292f02e84f73028925f31ac24d47f0f7b19732e6bd5d70b3952c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d1f1875d3c0db9186a7fbc8810b1577b95c57df11f2fafc1e0763abd9c0e5b73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4c0b5a44c362f7b7c24dbcffc1a2d7a167905642540926d83fe454390708afc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4daab5130fc79d287ac49bf1317061041bf06e37ff364da2579b197b2de78d3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4fd6081241b851642eb96833ec79462c2fa18378a30fff539ceb949afb627dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5a4a14c21c3ef32493458017f5f2a3b55ae84eee64e6c9831cba7430e7dfe77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5e3750e62ac00b84f9451d491c815af81129bd9238c43483955f76e5689deb3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d29dbf3ccd31e7e29f6676b88aa95e8db400f6c37dfc4f1db0c082d0920ee8a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d49ac7a377818da71cbe2829954cc2a2fc4c7a76499458459c22f54a5fb835aa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d73b6ec8d67d2d99e6d3d2bf009b88638a5d16419a424c15b0697189fedb409e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d99ca630f737f457ab31a341f5f3fecd57c32d1c740c46e7fd78f79535539236 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d963ab9d84e0ec22f313c0412c45362591b74002b647c84dd935080cadcc9c42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d7772ed0c3ee121d42a95ea2029685c4f2bb8efdf3042f1172abbb27f25895fc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d827022bb1871e34160f915b56d8d0513980a6f1e13f6691da51e5c73934698c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dbed522fd27b4e5e8f5420ac836d542f198fd5967237a98292975547cc41a4e1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dcc50f0f78756d6674cbc6e596c7046550c181d265cf904a2037fb93fd426e2a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dd5baaad0c080a9cb58c070fcdc9c6b0dfef9a5579c5b90c94dc79d6ffe1d721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: df747d4ff0d22313d095a762e5329ca40e691901e6d40071e2eb2e2604e08d8c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_pgadmin Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_postgres Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1ae5d9013c49ea9d26f2ca58bc5bfb258725119bc88d86d4cff81df3720a713 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1e76da548a192e57dc2b39345c797729095db34f0d7dcb8ef6805f5a5480716 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e07cf77b8e4d8e8cb4a14c0e60af705d6cd9a70394bd0b2619771819d42a63f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e8c044ea165a5ee34ac1e0f5bf7d029906e2f10fb90a2da207a42a823a03371a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e08a63f242fbefcda138386d0f2274c4f26b33a7aed5e47f3f4d19114b4fb81e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e33c6f49eddd905b964067dd188f8569b23d4e90d62049e6c3c51a3cfdd65d49 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e51c022f4ec0417e7f49994341bcbaf8f344a3472b29f0e9ebe8133962ce0183 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e127ddd2cd5689284e68d053402a7beb446cb92fd014752f6ce2e29d04682862 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e461c0714cdc8508a4d5c81a8db4a19ad6932499927ba8c27e84b4109adecec8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e866a771af6bdab511b82dd0e4aed19ffbdb31280e6c5d65f15d162bc48b3b72 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1647f763f22fa2341d7a810d65f556f2dcc5600aad8f319f6750e07c1826ccb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e02139e4b63cb63ebd64ad9299374f21538679fe5b78b5bb1befea898eb3d904 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e7811091d9c49a697c9973ba35f1e9950a87164b709f4e8e3adc8476be6564fe Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e55698263e6c4c3267bedb99722d326c83f3682c4e9c3606c14b80834ca1927a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ecb6612f579e0616323f9e0ac1c2a57d8e02b106f66022feb153c42c561597d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed01ed25eeafa9ad68bf379c6e9bfb6db2bce7b314ccefe36682836f3939d210 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed836d9fed1f251221f20aa631a92d1ab147eb72e83351cd0586f46b9af50418 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ee9b0a07a9eeb68dd8144a28313a1ef3bf23b64e99896a63bb8b30dcafcb04bd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef5a7a90848207dcfacf603f69177ca6cf1324b5aca40521559b9c8d61ef3453 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef273eabe919849b3a3fc10e25eae4a2f7caf139fb66fdf9ef4a63db6cf8b033 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f0fead7db47eae37685fa803519e2ec9352270aba6c1dbc5c94cb85f17f730f6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f1e8f763d771e60c9d36243537180b7a35d56509483aa1592759fa86f7211327 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f5e9679b5a6aab8d43a9092f533c9548285a99a4d4abf19bf94ade656049d837 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9be7296b53b19fe9c95dc771876d5d723cfaa6c4b1e20cc42291d4a188c1519 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9e9e02db8bef80c175e6771b62f91ea6ffb7af2e561d7c9338193ac31ce1630 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f31e7f10e4357dc478df5a0efca92df29aa8665d63b3f171a494d17452e73c9e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f69c8e729fe425f7dde5122ec8c2103f95b4f18de9452346260142768b40a10f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f70c8167415f07624853a6c5b469fcdbe9fe16cfbb5b5b276a2d8e04ac5856c3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f210dda9e8eddf271d85db648b1e81ceeabf5e62ba6424d343cba3c560c84ea5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f3914b5455c4026eccd75fd96f956804499538f620aa01f26f2631a598d07590 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f28090fec07d253301d0240c123e07dd7924a1c61d9c9ea102930929d32fdd93 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f59407e767b7d7da2190ca4b92bb3adc7f46984dde5d6d44ad01b134d3cde4d7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f932874e579a57441693dda0eecaa7e19f74399ba958150b08d23bc804035532 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fb18ce299efc5f02ee9af60f37ee2e05c2a9a1b5dd43ec8c949acac3e928961d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fc81d4b6e13d7a09bde1f5d79513df275c338acde1f4f3e2395709a58fb51e78 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fd8f6db8ca22e26e8b765b66342e645c6ed767d38c3fe324dd61b414939dd9c9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fe3b021443c1462b7020b82291ab2279508a0bc731132dcd1edf722b947c2c05 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff02df171e7a0fbbe050c44b1b7777442b1d6246362c58a188f01c187d7e9e38 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff972aea14b378f14f92a4fc060781777e397712e37486047aee09209fed89be Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ffbe67ae4664d65a0c1d696e343f25c86fa46eb0fd640091d4b879c2ee6c9924 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-kafka_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight_db-data Delted Successfully =======
+
+Deleted: sha256:85618fa1bea352bacc70a26eedcb63278a20c322494911903ed8af69f9fb6b6d
+-n 
+======= Docker image with ImageId: 85618fa1bea3 Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 0a3b4b9eebf09ebb9a204d649c3d512992ecb4ccd7f851a5d5d00fd290a7d3ec Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ac2ba1387f5989c73b86d160ec09a8b05054fabc253606dc8f2749d6fd6c97d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0d63b67be2d07e14ad0afc663c0a123c365bd19d2efa4b10554ba91f4683171a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f3cbcb3bdd5ad707b14e1324c8c93df02d9f8ffdd768249271f0dcea52a949a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f4dbf030c7c9b43efa5aee525f48a5e6dc7dde9db4b80642960afc46bcab15f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0f97138076bf3ece910af71fca5d3797687046f4f5e15ce8d82ccbd61c4f9be6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0ff57a27ccbb65c990cdf99670316c1d9b38478b3d83428668176a396f90f179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1a61e92ad9f94cd7eab48dd6935290f00321107788a4af47ed3951384bd7cd8e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b2ce45190d71f91113edb88784e0ad27c0468d9f4e5dfe0173191e696264d74 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1b05652ef03ae654d8adfd944c9b02d1abd53b9fbc32f9f2bb4e2fbf1b203da0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1c807c2d1f4e1c5b048bc2d042c845c3b2b20c126baa8c0ce39096876f2d6bd5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1ce52e31e4636ea48453468b46cd86fd08f71f6bf794cae5cbe2973be938420b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1d7481cddd5e4b5b00912365088f3abc52c69e27d581224453fbaf6b92e5ef1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1df792e005a6866d071c799ee577d0cf445c8d3aec23a591d0eae16dce0cb47b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f07ca7f425fe2a37f6404d439413a520e8c3d7897cc916d4126380180f73348 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1f58bf9bde50b70d1fef5e84e4298d608cb65066d7a84792eed61d7bd0019016 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2a0b15e4a56a0c884473353824738920ecd9c746f94157202fa1d0ddcd45849a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2b3f9229698af87702a3eaf6ebd410296afb528f97a84d495a3c5e278018f022 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2baed490b82ca90e2fae0ddfdc803d29b756b8220a1e11f03cb9a71bd5db986b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2d385dff2fe8ec8da8484858039ee9334a36914958e18929e32d149a01c1adfd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2e1cfe08f91f62087cb2bcc6fd8e2e26944fe20ad5e6b64c8e201cd4a0ad6440 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2fdf8b4317534ea2010e2a076dadf4c71ba5da32a54e7b2632b6dc76e797fe42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 002f26912e5f0ac984d200e5568840ed6e54d50f7bd19688ed2032de95c9d65a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3cb790115e71dfa50292cfce27fde9203b49dca1d1a9fd363282b4d6b77a3ca8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f249ac370738412d7b4ecf070f3616d5a4c0af4c758ede3031a449b92bbf50c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3f9033e7d1b591c8ee37f9c757e354e8b17c240e998cf74acf19e2e96454e2f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4c1d1321acf1e311e36c3b3c2008c795218c650c1a87ba0604bfc29ef30cd55f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4e830b8b50554b98cb3e16df6b4b40c8bc2351fde4583b7c27c044f87c94e83d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4f86b4acf64669cdda3c7d61bbb1aed6533aec51d02d75bdf19da46712a140f9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5aecbfc63284ea13b222295bbdb6bf5ff6c65ffeb0b0d91b6f2874db33ac3f9b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b5a5def47a1a76893774be4ff27c932432fae5fa5096c5ab4cf01f3e5cf1bff Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5b03829796eb3a58e16e5331669dfcff609ca07fcbceac9f60921fff068a61c1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 5eb5fec4a60b1a19de82c479551596a6e7bc42a5220c80db190b93d8d9834325 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6ae9fb96b8f3ca9472ab78ce68f6222fc5aa5064e99bca47a2fdf8f7e73e66e4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0c2a3b27f9dd671bb5e9fff54998bc0e25db520687661334d307ea2600acc3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b0f8aa7307e5d38903328ff795d4d34374c2d43b17df568e7a0de3407a2944b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6b710c41ce8433c41d60e8979b02c3281f39baacf14be50eb6bc5ae398a34cbf Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6cc00a8744a0e9e1af8b14a4b57b0cb462b8bb59eaaf8aca638dcb6d36614711 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6d497377884c18990cc7f9e3efc251811a354d13cb241012e92642317b502019 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 6f72619fd10dd421bdd41c09caf49ac8249a85331f415f18c1abbf1b958cc342 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7aab09bd18347ff1b6129c376464d6d5cb5d904f2ef1f237c3f54ba03d2d3a73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ac573d1f5bff68ee68c4cff4898e8573b8587abea3f89587908f48791169b21 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7c4a0f68ac45c38735ec1fb5a377065b960b12c8d1babf399cbdd9a7d6311264 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7ddff07aa07a1bea622dd07c7306cc20cf20417ad6c3a44d59a6f0259d6c5db3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e4a4fe9d4d2ebc4722e68197b8ac77bd1e6f22eb06dd3610e0f55495d537881 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7e05a46754b9c5103abbf4f203dae6fdcc0f813477add4958d8efc54038ecf27 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7edd7139500b8aaba11beced4803871dc7ce48d0c64d24768d7f23f81aa5bf5c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7f43f57d34c177d9a87ec8c2e8ad65f69400866c6a421bed8974b2bcb2bcb6c6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 07e0c4bcadb675bf3fcf9caade5712b41870bb612a9855e54342b962ddf5692f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8a7aba0c0428e703728f847a14138050e97c4356d1a1a651859fc5edbbcbbc32 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c4cb5b8b8a3e8fb0586ecdd1b97c74860689bbec739eb38554b1b7f8b44a99b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8c7358ae1fdf5098588402026e7c16c001a5b9ea4c755ebde0fff0a3899224b2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8ca84131da9c744c7e074d836c9d27125a572088ad03748705626ed0b8fd6d08 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8f2800f3e6ce668f7bc886f2d7654304b837fe43d26f55d43379f5bea95f81a7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9b71dd7cee8589b12759298c2d3a4b13f920f73dfade4fff834f58d2fdd98ed1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c995bd49ee22e4f710729bfb4fe490d4e04a88de5104d64b6b7abfda2a87127 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9c2032ddabcbbb6f04ade49324d10e8e6c28aab5f130ea8a43eb9673e06bd07f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9d3bd0e5ce528e91433a756153b4cf38d3d734fa0f3b5d0fe8ae6d5802c01d9f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9ec9297b4e158d3aadbc999e560b8cf9c3af85bc6ae176ba5e8cee4ad58032f7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12b04d51b1bcb70620eafadaf599002586db3aa23369697e6e3635f7e92d23ee Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 12bc71c0e68e17493af2839c30d4d9e017ab82c9a4ac28be787c551a014dd7eb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14d2683d362e76b8312d59ee288eb5581a9cac7211900b928da4f8aef5f5f37f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 14f5cc5b0eb99336b7c595ff3cb5f8e2cf707b3f24bbe41627fe47c327684a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 16f61fb0e3a9cac86a6575090ea8cd40a5d89eff5b5b0beadd5d431a53e665dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 18d33210dfabb65961295365e452cdb1f4b8b08b23d1a495cc02507ce65a241b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 22f0d76f35ee4cee3131c1f1ea1a0725a222e8514d82351075dad60db3aba311 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27b22c0adf0e4f999a3dd5662e4447c01098601ad610b21bf9fd01199507df17 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30c8e5d0a5338784951d760d7f0bec8a31bdf6883f7de01dfad79defa3f1bb09 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e76ff1ab8fe7ded048f9a173fc50a64a37d50cb761d245b3fd37f71a9ab1e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30e12601e0528968f9aee7be4eea205aff29bc498d411a629a7ae82434eecc01 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 30f7ac36b51735096f1068737b38b75f06614fd8f8d32d984736e316c9f711e8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 35e4e5850a5d946d4bb775e30ae5f517287cfe6d61ee3c291d82d7b71b5a416d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 36f904b26e3073dfbeb3ed1f1d48b8b5babb6a4fa5ac28cd6b522e59b8f67fc0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 045d53c9b58a325a664f8b577937d6bfcef947639acee32b0f9b26d4f1dd23a3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 50c59d0978e7ab12e4e9beb24a6bad5c080a0aebe23c690f1eef39e7e2016620 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 051c40e320d9d71cb9e49ae3f3c26b25ab9a49baffad45e8237b7f978c604963 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 54f20cd1342eb4180c6e62bb5b8682381d12952c757b05374e811ba037a0d880 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 64ae6c68134e4f4fc2dbbf0d3b1806d44e211f06d09634dd6b559328a1c4d34a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 69b80c574654794eca61d06ff2228a256c674eecdce2e021594ea9ba7edbdcd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 70a4fd60034b5478a7cdd5add5a366595d7bbc2b2e380df149d58cc25518243d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 072c00a4e80bdb8186b50191b91f7a1d2113dc4ca0b811eac77d6b0a764d3b3c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 86afa3cb55ea6beb3866ccfe2bfb8e2b9ad6228c3b6a5be88670409c6197bb0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 87b4280f42c95610cfd6e0b91338e2f2fec1a83e6d13571e28e1605525322f8d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 88a3cc23474fe86212468ec71a3628ca25e5c5f37fa54dcf831b9ddd5e6d6a98 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 90e93e62af4e9b43578a276878239bc20d5771481d41d6d890f970b6b924659a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 91def0e2d13daf54a9b518ac1ff11cf81a62e0c860e35c5e17e30b6df7624a13 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 92fa73bba06b00e088acaaa7fe6bbb1386cac302239214ed8b5f5fba51a10549 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 97cd69746c840e12de294ea24313501e48e71617d90765f243a4e7721c277df2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 129fb8741a6e55f46994f65423c641ce78ecdfc96979a54e3bfdacce46cb77c0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 153bf8336910b43badfb5fe9c2894b45cda0687adf0145120823ac63f0fb09a5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 231b737299ff49beaf4602662614210053e50910819c154ba7639393b24cc64d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 319bc944c6b0a9a79b1b07aa6bb5bed7d8e695021cc605bacf1571e324d0e3e3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 364df6de4bf81685d23227b43bab3fcb19a62f91849971f62a832b118d36104f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 365fb766225dbb9112ac229eb93a2437095ec25bb61d0a7a86922f384e016a89 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 377cfc98a1a56742f5bc22d40c35b9c8d5f41c4c5663b351a9c2ef2a172292a4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 397e07572034731f12a43717d5f34a5de6325290d9e1604eaff65a47ff37dd40 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 428de786615a608a321970baf59dcd73df3f7df8fbbc70fa9199ff5204f9b8d1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0451cd03699098320d96a390f62e3ad58534fff39f486659a2eb3c20ac7d6381 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 481f6e30d9c096f35651652f9196373fb9645ff1f1ee94ca81bd31fbef08591a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 501c5323555c10af90cee640f8728b84b7417eeaaa1f653306c8f253604baa0b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 503c1bdd321fc4fbb143ca7835959378bc0bf63cd93038306152542392a2b7e0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 533e9d7b7f662096edafa7ca03b3cdf3dc5addf20b94422b1384c3e45262232b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 543a0035dc4bd68c0abbc1e15a4e4b00b082d657796a8922274cedbc121886d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 545e856399054b9f212d9bb42827ef84e6f8e51f1d8e453920f61dc45a013d0c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 580c6501a38be59f2806933dad1bee78ad3f5c935ccd49277429b810283733c5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 705f672e09534671f4da1033bce8d2ebadf78ee7d7853c04ff2028a8c75b34f1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 737b419705e737e33e8983f8078755c01a66d1a1ef71d2b36596a5b8f0abdbad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 804ffbc1fbb9f37019f982c536e6e98bcdb20a0f40e07cb2d6abb5fa8d5fb179 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 834c258775ebacd9526c47184ffb34ad6bb3464752bf6d8d8f13138b78d7d2ac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 899ad0365e97559daf2b4c196d6588c83daec3d356068faa415b75e563f9dd46 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 950be31edbf5e203e45c7a743515532d0a38e17caa68c45f17a9198a068b76c2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0993f1632c42a52351bdb750afe80e9ad33c1cb049dff5b7c7ff5a16f9d90fad Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1986f073ef8f53f9a94dfc275cd2160df102babdbce2a9d20a72c25c87e92d53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2426dc525287e5f0cbec348fd85939d276efdcbde6f8097bcaf2a5b6b51955b8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2966b6aac3a8f3ac916b77b30c855d907a88ddbe72eacab02e4b94f1dc29a9f8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7321fc6b6c569380c29860e2828ed2706719a388e5d78f6c737aece88564b2cd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 7994b53e5fc46f2f5c4609fd5dea8f35034aa1364578a72bf903bcab1ff10979 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 08192c8887482e52ee5dfa15290fd4732a60e6e7556b580c2b6e3a4d9b598e5e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 9065f8c6363560050650b17e303caa2cef4ef247f1967e8272078f6e36f2bc19 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 10455a13fdef747248c9db0e12d781f088d6a31a2b70f2c0709be9ebd08cbbf3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 17821d6d98d1d5e6d8a9903b263f022132223344b96d262f32ef8f0fa1564ae7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 29566da939f4c32b7df2d6e2d339c506164a60711f78d3783f748e988ee69bb9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51437b6e855242b175b1580df8e923705c79379b0884c6319ac70c81655af1f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 51485ecbac1aac02888ded4aeae64fafd74525bd6ae2bf73abbf76a34f0b5aae Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 82621ff0d5882b47e8c5f30cbfafbc64e9553f2cf76dbe0a802df4b84dc97797 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 138188fcdf121db1401142ea0f610d0018b6d0000b4b39dd735ff4eea8dd38b5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 256367abc8437d5b5069a2914c57349cbf107c9dea593a24e21edf8b532c9c1f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 283198af3e2c07c3e87b3966137e1a9ce44126352cab2894d5f397cd0a3e5d23 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 0770414e24fcc35726a8f72d0add03c78a5fed7a751cc2265e30f7cfa0b3b90c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 932809eeffae8f538e25dc90328c90b24281dd36d7b046b9ce1a7853af474c6d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2726470ee81c99ee790e5bb9a6e41ba0ffa8afdb1c782f054e7ff2bfffbb08c7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 3552211cd5744f9837158f2b83d6ee820f33a78a93512f862c9351211a1e0af0 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 4794409a4376020814bfb08974611e2bf296f189bd9afd0092c792e506c45b77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 8117816f7d5f6ad97eaab1769af53cc9a5edd73cb28f863c6a9f51b1d3ea2346 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 27588568c8af69488b0fefeba29590e24b76b6f735eca12662352ea051579164 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 215776887f528185f92563aa75bdbb5caf73b992ff582616c5abd31fa4abcfd3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 483274121d4bf6964ef34278b3ac019ea5ec3e4f8241abb60614881143ee9e1a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 592630171fec817264d506df06f8bda9749f73683c9cf574ae2d99e979a24da7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 1945118902ea38001573c6e36a4eeb3c8627679c3275e47c477566ac65234cb7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 2519298360dd47e4328b79c7c73c104decf6e5e3a2b8c8977004a910a4c6bdaa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 94586336316b255fc0a1c6783634074d60ce437980c621ee401ac35a7c8b588d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2ba2dac5c9e9b5f19b39deb05080241861072382b92df414fa1924bae75fba7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a2f778297293110a1ca0637247782951e58306249e0314b344c52afc4f95f378 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a8cf599304f13b67ae1d9be6633314d25ae6cef9783ed6bc05a9cb9cd3294e03 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a33a2109da8eb0e7d40d251f2c22297bedd06766df2bfebbfe3e41f726669655 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a47f902a08c460cf15c6a6e85ae2b5b0fb68502eebedb960ac4c657567616d71 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a86db1f8b5a80d790c505ba767a26b62bbd9040d6542f504b4f8527143a96801 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a98c755c5637b2a60305c16dd6ef971d48b687bb0d52b38bcc5f553067110ee6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a312a9a685971fa19c858af36dfb0a91be28874480d6d6e4c7bdf2297bf3477e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a372d304a927b1a4e2a7680ef4e881d9a622e75573d690993b52139ceeca4f86 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: aa5c7d7a2687e41ea95b7810ed40746f55af91cb689143ac8711e2c52df562e2 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4633dba0f670d629e08634d2aaa70d1617b916b6f3e1d7a6c41fd23ca46e75 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ae872eae7d11aad0ef32b7b4c892c7b3ffee66aee3b85bf0bf30481ff24bdc99 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eb4918c137e9d0f1b39febd42693bfde5f89b722c11761e7adf108ab95a97a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6eedb91fa7419d3833e20b38539f8799c947e7aeaa888850a899f5c84765b3e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b15dcccf1cb42d8b9a2d4a082c2ce37afda540bb25df99041a799e15fefbf110 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b83f1be43edd556cbf2ba55a2f6c29f228e6cc84952756c94f8ac5f8452f177c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b88ba38c298dd4e25cd2bee1a11c7b61fd9f16b508250268769d75ca1bd4735b Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b6869dd7987cc9edd46406d0383715e8d4a81af152b746aefa1a65f34974fbe1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b45677fd6bf1c98026b37e333a8fc8c5e152f70c8a92e900db3635f640a70156 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b2800302bb074d7ad4d2aad489d9a700fd2ee2e5832358763bd3e881d46c91db Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ba13cf1d801c358fb2ff1bcb643ec5896796d7b910100b95f8a4b31a93326b4d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bb1520491a44941e709f9b65710e795aabd59eac6fe31b3b6f593854e54c1972 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bca5248caf0f365062c18f0fff32b57eba74118491e96111c61145433b467a33 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: be6aacb2d254ba4ed66e5ec8fa4986ca81a93528bc38c11ec6c38d78f540c827 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bea0d3d15382990edec5425faaf6f4883a47c2a1fc182598031dd23157e232cb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bf70f3b3d7e94a62cf0ff2c07a85674dba5a2d3c12d8d3b258c50ebdcf4e145c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: bfde57b47de6df634706178a771c2b218afcc60a1bf2f72734c6df9984495451 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3c5797dd55f50f36349cb5977f07d8f6b24ad87c7ad9ee547fe0f45d8425014 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c3f888d82502ff92b7d9943386e63c13caf8a089b092bb0386017d382bd056a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c16c4af2c8e7b2e54eb5320379888e3d58b3c1a5064fb08b754e8d06ff401c88 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c68c630b8cc812d1549c99acf12bd094b425e1227c5c93edb4824847646707f4 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c082b22986b409bc91e7d242705b7df3659de57828e169b2091527a6f2f18230 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c137d630bea04c178a90c33f6d5680ac551b5af6a875442aec73634c48712abb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c2251bdf47f4c88bd7cc85904a8438f06bfbb0b3f22e1e6fe0b9b53df8fe8c53 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c6353b83a19750cc66711feb5b0d2788270eaba830c8d1dde01b2de4771d1e51 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: c8899d30975c500da8f9a9983c185fcde3daf67fdfe9d6fee9fa4e81d618bf04 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cae7572d5d6bcddcf0ffa1cfc6252e08e0f49b96449d16729f4b0a8eba418176 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cc8699980423f162535ee9866ba21ad6dcea12c1696c08b9e9d2565358c58158 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd1cc5d05b046f924bf7d33d03babb1ed9350a45f1afda145c27274280d84df5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cd2054c346c7b6e17d977daa9809cebe578e58e7927a42154cd4cb04bc3df596 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: cdf62cb223e1a53d47882353de2cd51673e31ba65552c042cde389cf5ea8ee81 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce873ba5cb37b11a627bbafd862e727d8c8d468a164c35e1fc7eff080e98e13e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ce6469644ec0777b5a7bfeea5edfd8a7748508b004d03e91412c211f7c80028c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d00ae2ca5484292f02e84f73028925f31ac24d47f0f7b19732e6bd5d70b3952c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d1f1875d3c0db9186a7fbc8810b1577b95c57df11f2fafc1e0763abd9c0e5b73 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4c0b5a44c362f7b7c24dbcffc1a2d7a167905642540926d83fe454390708afc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4daab5130fc79d287ac49bf1317061041bf06e37ff364da2579b197b2de78d3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d4fd6081241b851642eb96833ec79462c2fa18378a30fff539ceb949afb627dd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5a4a14c21c3ef32493458017f5f2a3b55ae84eee64e6c9831cba7430e7dfe77 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d5e3750e62ac00b84f9451d491c815af81129bd9238c43483955f76e5689deb3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d29dbf3ccd31e7e29f6676b88aa95e8db400f6c37dfc4f1db0c082d0920ee8a9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d49ac7a377818da71cbe2829954cc2a2fc4c7a76499458459c22f54a5fb835aa Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d73b6ec8d67d2d99e6d3d2bf009b88638a5d16419a424c15b0697189fedb409e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d99ca630f737f457ab31a341f5f3fecd57c32d1c740c46e7fd78f79535539236 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d963ab9d84e0ec22f313c0412c45362591b74002b647c84dd935080cadcc9c42 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d7772ed0c3ee121d42a95ea2029685c4f2bb8efdf3042f1172abbb27f25895fc Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: d827022bb1871e34160f915b56d8d0513980a6f1e13f6691da51e5c73934698c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dbed522fd27b4e5e8f5420ac836d542f198fd5967237a98292975547cc41a4e1 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dcc50f0f78756d6674cbc6e596c7046550c181d265cf904a2037fb93fd426e2a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: dd5baaad0c080a9cb58c070fcdc9c6b0dfef9a5579c5b90c94dc79d6ffe1d721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: df747d4ff0d22313d095a762e5329ca40e691901e6d40071e2eb2e2604e08d8c Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_pgadmin Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: docker-compose-postgres_postgres Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1ae5d9013c49ea9d26f2ca58bc5bfb258725119bc88d86d4cff81df3720a713 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1e76da548a192e57dc2b39345c797729095db34f0d7dcb8ef6805f5a5480716 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e07cf77b8e4d8e8cb4a14c0e60af705d6cd9a70394bd0b2619771819d42a63f3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e8c044ea165a5ee34ac1e0f5bf7d029906e2f10fb90a2da207a42a823a03371a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e08a63f242fbefcda138386d0f2274c4f26b33a7aed5e47f3f4d19114b4fb81e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e33c6f49eddd905b964067dd188f8569b23d4e90d62049e6c3c51a3cfdd65d49 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e51c022f4ec0417e7f49994341bcbaf8f344a3472b29f0e9ebe8133962ce0183 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e127ddd2cd5689284e68d053402a7beb446cb92fd014752f6ce2e29d04682862 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e461c0714cdc8508a4d5c81a8db4a19ad6932499927ba8c27e84b4109adecec8 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e866a771af6bdab511b82dd0e4aed19ffbdb31280e6c5d65f15d162bc48b3b72 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e1647f763f22fa2341d7a810d65f556f2dcc5600aad8f319f6750e07c1826ccb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e02139e4b63cb63ebd64ad9299374f21538679fe5b78b5bb1befea898eb3d904 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e7811091d9c49a697c9973ba35f1e9950a87164b709f4e8e3adc8476be6564fe Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: e55698263e6c4c3267bedb99722d326c83f3682c4e9c3606c14b80834ca1927a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ecb6612f579e0616323f9e0ac1c2a57d8e02b106f66022feb153c42c561597d6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed01ed25eeafa9ad68bf379c6e9bfb6db2bce7b314ccefe36682836f3939d210 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ed836d9fed1f251221f20aa631a92d1ab147eb72e83351cd0586f46b9af50418 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ee9b0a07a9eeb68dd8144a28313a1ef3bf23b64e99896a63bb8b30dcafcb04bd Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef5a7a90848207dcfacf603f69177ca6cf1324b5aca40521559b9c8d61ef3453 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ef273eabe919849b3a3fc10e25eae4a2f7caf139fb66fdf9ef4a63db6cf8b033 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f0fead7db47eae37685fa803519e2ec9352270aba6c1dbc5c94cb85f17f730f6 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f1e8f763d771e60c9d36243537180b7a35d56509483aa1592759fa86f7211327 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f5e9679b5a6aab8d43a9092f533c9548285a99a4d4abf19bf94ade656049d837 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9be7296b53b19fe9c95dc771876d5d723cfaa6c4b1e20cc42291d4a188c1519 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f9e9e02db8bef80c175e6771b62f91ea6ffb7af2e561d7c9338193ac31ce1630 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f31e7f10e4357dc478df5a0efca92df29aa8665d63b3f171a494d17452e73c9e Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f69c8e729fe425f7dde5122ec8c2103f95b4f18de9452346260142768b40a10f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f70c8167415f07624853a6c5b469fcdbe9fe16cfbb5b5b276a2d8e04ac5856c3 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f210dda9e8eddf271d85db648b1e81ceeabf5e62ba6424d343cba3c560c84ea5 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f3914b5455c4026eccd75fd96f956804499538f620aa01f26f2631a598d07590 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f28090fec07d253301d0240c123e07dd7924a1c61d9c9ea102930929d32fdd93 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f59407e767b7d7da2190ca4b92bb3adc7f46984dde5d6d44ad01b134d3cde4d7 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f932874e579a57441693dda0eecaa7e19f74399ba958150b08d23bc804035532 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fb18ce299efc5f02ee9af60f37ee2e05c2a9a1b5dd43ec8c949acac3e928961d Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fc81d4b6e13d7a09bde1f5d79513df275c338acde1f4f3e2395709a58fb51e78 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fd8f6db8ca22e26e8b765b66342e645c6ed767d38c3fe324dd61b414939dd9c9 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: fe3b021443c1462b7020b82291ab2279508a0bc731132dcd1edf722b947c2c05 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff02df171e7a0fbbe050c44b1b7777442b1d6246362c58a188f01c187d7e9e38 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ff972aea14b378f14f92a4fc060781777e397712e37486047aee09209fed89be Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ffbe67ae4664d65a0c1d696e343f25c86fa46eb0fd640091d4b879c2ee6c9924 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-kafka_db-data Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight_db-data Delted Successfully =======
+
+Deleted: sha256:a3c957976eba2fb29c667f61c8441bd034990cc8e2ede986abdcf5af554c7fa7
+-n 
+======= Docker image with ImageId: a3c957976eba Deleted Successfully =======
+
+Deleted: sha256:7bcac883acbf5564d26d670f4ca40b8e78382f6921bd6f8a555f3e894464fa77
+-n 
+======= Docker image with ImageId: 7bcac883acbf Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: cb2423dc4c7f0a65d14c65c2985e1dfce947d3c6bf28bc47bba43dbd20f81aac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 62f47bd4402b94841dd03b0cce144dce6bf72b51c4130a4f13f0ddafac707066 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+Deleted: sha256:bad88ae14b2f7dc7d72039341298c8c5a82cb8390f4e20ee5151f95a3a3e7f3e
+-n 
+======= Docker image with ImageId: bad88ae14b2f Deleted Successfully =======
+
+Deleted: sha256:ba96675592bfb798db58561a1b636bb1f1d1da9c0a34c29419a21c965fb2b8dc
+-n 
+======= Docker image with ImageId: ba96675592bf Deleted Successfully =======
+
+Deleted: sha256:6b3273ce37be1c3a4cf5e7205c130f8c23618701c1c4683ceaa43413e72217cd
+-n 
+======= Docker image with ImageId: 6b3273ce37be Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 685b298b65826a1af254d7adc23ec99c9a57fb7c8ccf0cc57431da472a4e7865 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4b9814273aa59aa590dc94059f3eb5138da9a90976223bc4a7a667871aa31f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f72561988fdb409813b2344f0851c95cb36dc6ee1c8565446dda8b9bbfe17b8a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 22b3618cbee96d52435fa1e9d45fdfc158814f28177d3d5ad064120f6f223853 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: 685b298b65826a1af254d7adc23ec99c9a57fb7c8ccf0cc57431da472a4e7865 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: ad4b9814273aa59aa590dc94059f3eb5138da9a90976223bc4a7a667871aa31f Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: f72561988fdb409813b2344f0851c95cb36dc6ee1c8565446dda8b9bbfe17b8a Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+
+Deleted: sha256:8082aaef01bec1998da7bcf7cda7725fce8ee3b861b9d12deda28302dfb4af10
+-n 
+======= Docker image with ImageId: 8082aaef01be Deleted Successfully =======
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-n 
+ ======= Docker image with ImageId: 42b3920d75190913ecbbf541b1e6ed67a8452b41e5889194954f9c437eef2721 Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: a4a33286f2326c920d7961c090a30d33774f7689a0347402d3a73c09486fcbfb Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: b723ed08bac466787f2f034580175b3946b5d85046696cbc538d863d717a02ac Delted Successfully =======
+
+-n 
+ ======= Docker image with ImageId: spotlight-2_db-data Delted Successfully =======
+

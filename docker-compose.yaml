@@ -1,0 +1,99 @@
+version: "2"
+services:
+  spotlight-be:
+    build: ./server/src
+    profiles:
+      - be
+    depends_on:
+      - db
+    links:
+      -  "db:postgres"
+      -  "db:spotlight_db_1"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: spotlight
+      POSTGRES_DB: postgres
+      POSTGRES_SERVER: db
+      POSTGRES_PORT: 5432
+      DATABASE_URL: postgres://postgres:spotlight@postgres:5432/postgres
+      NODE_ENV: test
+      PORT: 8080
+    ports:
+      - "8080:8080"
+    command: npm start
+    volumes:
+      - .:/app/
+      - /app/node_modules
+
+  spotlight-fe: 
+      container_name: spotlight-fe  # Container name
+      build: ./fe/.
+      profiles:
+        - fe      
+      ports: 
+        - '80:4200' # Port mapping
+      command: > 
+        bash -c "npm install && ng serve --host 0.0.0.0 --port 4200"
+      depends_on:
+        - spotlight-be
+      environment:
+        SPOTLIGHT-BE: spotlight-spotlight-be_1
+
+  db:
+    image: postgres:12
+    # profiles:
+    #   - be
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data      
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: spotlight
+      POSTGRES_DB: postgres
+  
+  zookeeper:
+    image: confluentinc/cp-zookeeper:6.2.0
+    profiles:
+      - kb
+    hostname: zookeeper
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  broker:
+    image: confluentinc/cp-server:6.2.0
+    profiles:
+        - kb
+    hostname: broker
+    container_name: broker
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+      - "9101:9101"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2181'
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://broker:29092,PLAINTEXT_HOST://broker:9092
+      KAFKA_METRIC_REPORTERS: io.confluent.metrics.reporter.ConfluentMetricsReporter
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_CONFLUENT_LICENSE_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_CONFLUENT_BALANCER_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_JMX_PORT: 9101
+      KAFKA_JMX_HOSTNAME: localhost
+      KAFKA_CONFLUENT_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      CONFLUENT_METRICS_REPORTER_BOOTSTRAP_SERVERS: broker:29092
+      CONFLUENT_METRICS_REPORTER_TOPIC_REPLICAS: 1
+      CONFLUENT_METRICS_ENABLE: 'true'
+      CONFLUENT_SUPPORT_CUSTOMER_ID: 'anonymous'
+volumes:
+  db-data:
+    driver: local

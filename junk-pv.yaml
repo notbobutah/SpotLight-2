@@ -1,0 +1,6 @@
+persistentVolumeClaim:
+  enabled: true
+  size: 5Gi
+  name: onit-idis-volume-claim
+  type: shared
+  mode: ReadWriteMany
