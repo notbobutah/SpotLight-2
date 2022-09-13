@@ -71,7 +71,7 @@ jobs:
 
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
-          aws eks --region us-west-2 update-kubeconfig --name ${{ secrets.NONPROD_CLUSTER_NAME }} --role-arn ${{ secrets.NONPROD_ROLE_ARN }}
+          aws eks --region us-west-2 update-kubeconfig --name ${{ secrets.EKS_CLUSTER_NAME }} 
 
     - name: Test for existing release
       run: |
