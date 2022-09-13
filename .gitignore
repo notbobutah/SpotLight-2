@@ -13,3 +13,4 @@ npm-debug.log
 src/assets/index.css
 src/assets/*.css
 *.css
+fe/output/*.*
