@@ -33,9 +33,8 @@ jobs:
           role-duration-seconds: 3600
 
     - name: Login to Amazon ECR
-      run:
-        id: login-ecr
-        uses: aws-actions/amazon-ecr-login@v1
+      id: login-ecr
+      uses: aws-actions/amazon-ecr-login@v1
 
     - name: Setup Variables
       run: |
