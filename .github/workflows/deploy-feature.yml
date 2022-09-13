@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     name: Build and Deploy Feature
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       ENVIRONMENT_NAME: feature
       IMAGE_TAG: ${{ github.sha }}
