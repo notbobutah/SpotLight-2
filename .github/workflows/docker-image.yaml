@@ -17,12 +17,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Build the Docker FE image
-      run: docker build fe --file fe/Dockerfile --tag spotlight-fe  --tag latest
-
-    - name: Build the Docker BE image
-      run: docker build server/src --file server/src/Dockerfile --tag spotlight-be  --tag latest
-
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
@@ -57,10 +51,14 @@ jobs:
       run: |
           while ! aws ecr describe-repositories --repository-names spotlights > /dev/null; do sleep 5; done
 
-    - name: Build, Tag, and Push Image to Amazon ECR
+    - name: Build, Tag, and Push BE Image to Amazon ECR
       run: |
           docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }} . --file server/src/Dockerfile --tag spotlight-be  --tag latest --build-arg NPM_TOKEN=${{ secrets.NPM_TOKEN }}
-          # docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }} . --build-arg NPM_TOKEN=${{ secrets.NPM_TOKEN }}
+          docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}
+
+    - name: Build, Tag, and Push BE Image to Amazon ECR
+      run: |
+          docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }} fe --file fe/Dockerfile --tag spotlight-fe  --tag latest --build-arg NPM_TOKEN=${{ secrets.NPM_TOKEN }}
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}
 
     - name: Logout of Amazon ECR
