@@ -1,4 +1,4 @@
-name: Feature build and deploy
+name: Feature build and deploy - 
 
 on:
   push:
@@ -15,9 +15,8 @@ jobs:
     env:
       ENVIRONMENT_NAME: feature
       IMAGE_TAG: ${{ github.sha }}
-      HELM_CHARTS_REPO_URL: https://chartmuseum.shared.aws.chgit.com
-      HELM_CHARTS_VERSION: 1.5.5
-    steps:
+
+  steps:
       - name: 'Fix permissions'
         run: sudo -S chown -R $USER:$USER $GITHUB_WORKSPACE
 
