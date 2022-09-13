@@ -37,10 +37,12 @@ jobs:
           RELEASE_NAME="${FEATURE_ID}--${PROJECT_NAME}"
           BASE_ENDPOINT=https://${RELEASE_NAME}.${ENVIRONMENT_NAME}.chgapi.net
           ECR_REGISTRY=${{ steps.login-ecr.outputs.registry }}
+          EKS_CLUSTER_NAME=spotlight-dev
           echo "FEATURE_ID=$FEATURE_ID" >> $GITHUB_ENV
           echo "PROJECT_NAME=$PROJECT_NAME" >> $GITHUB_ENV
           echo "RELEASE_NAME=$RELEASE_NAME" >> $GITHUB_ENV
           echo "BASE_ENDPOINT=$BASE_ENDPOINT" >> $GITHUB_ENV
+          echo "EKS_CLUSTER_NAME=$EKS_CLUSTER_NAME" >> $GITHUB_ENV
           echo "ECR_REGISTRY=$ECR_REGISTRY" >> $GITHUB_ENV
     - name: Create ECR Repository
       run: |
@@ -66,3 +68,50 @@ jobs:
     - name: Logout of Amazon ECR
       if: always()
       run: docker logout ${{ env.ECR_REGISTRY }}
+
+    - name: Update Kubernetes Configuration for Non-Prod Cluster
+      run: |
+          aws eks --region us-west-2 update-kubeconfig --name ${{ secrets.NONPROD_CLUSTER_NAME }} --role-arn ${{ secrets.NONPROD_ROLE_ARN }}
+
+    - name: Test for existing release
+      run: |
+          helm list -n ${{ env.ENVIRONMENT_NAME }} \
+            | grep  "${{ env.RELEASE_NAME }}" \
+            | grep "failed" > /dev/null \
+            && echo "\033[0;31m
+              A prior helm install failed. This is preventing subsequent attempts from succeeding.
+              Please resolve the issue and delete the failed install with the following command before re-running the workflow:
+              helm delete ${{ env.PROJECT_NAME }} -n ${{ env.ENVIRONMENT_NAME }}
+              \033[0m"
+    - name: Deploy BE Feature
+      run: |
+          helm upgrade ${{ env.RELEASE_NAME }} chart \
+            --install \
+            --wait \
+            --set "image.repository=${{ env.ECR_REGISTRY }}/spotlights" \
+            --set "image.tag=${{ env.IMAGE_TAG }}-be" \
+            --set "feature=${{ env.FEATURE_ID }}" \
+            --set "project=${{ env.PROJECT_NAME }}" \
+            --namespace=${{ env.ENVIRONMENT_NAME }} \
+            --version ${{ env.HELM_CHARTS_VERSION }} \
+            --debug \
+            -f values.yaml
+
+    - name: Deploy FE Feature
+      run: |
+          helm upgrade ${{ env.RELEASE_NAME }} chart \
+            --install \
+            --wait \
+            --set "image.repository=${{ env.ECR_REGISTRY }}/spotlights" \
+            --set "image.tag=${{ env.IMAGE_TAG }}-fe" \
+            --set "feature=${{ env.FEATURE_ID }}" \
+            --set "project=${{ env.PROJECT_NAME }}" \
+            --namespace=${{ env.ENVIRONMENT_NAME }} \
+            --version ${{ env.HELM_CHARTS_VERSION }} \
+            --debug \
+            -f values.yaml
+
+    - name: Output Service URL(s)
+      run: |
+          echo "Access the service at the following URL(s):"
+          kubectl get virtualservice -n ${{ env.ENVIRONMENT_NAME }} ${{ env.RELEASE_NAME }} -o=json | jq '.spec.hosts[]' | tr -d '"' | awk '{print "https://"$1}'
