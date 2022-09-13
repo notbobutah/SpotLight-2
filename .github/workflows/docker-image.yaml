@@ -12,7 +12,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      ENVIRONMENT_NAME: feature
+      ENVIRONMENT_NAME: default
       IMAGE_TAG: ${{ github.sha }}
     steps:
     - uses: actions/checkout@v3
