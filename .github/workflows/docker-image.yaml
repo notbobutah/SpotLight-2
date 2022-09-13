@@ -17,6 +17,15 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Setup Helm
+      uses: azure/setup-helm@v1
+      with:
+        version: v3.6.3
+
+    - name: Setup kubectl
+      uses: azure/setup-kubectl@v1
+      id: setup-kubectl
+
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
