@@ -15,6 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker FE image
-      run: docker build fe --file Dockerfile --tag ${ (lower GITHUB_REPOSITORY)#*/}-FE  
+      run: docker build fe --file Dockerfile --tag ${ lowercase(GITHUB_REPOSITORY)#*/}-FE  
     - name: Build the Docker BE image
-      run: docker build server/src --file Dockerfile --tag ${(lower GITHUB_REPOSITORY)#*/}-BE  
+      run: docker build server/src --file Dockerfile --tag ${ lowercase(GITHUB_REPOSITORY)#*/}-BE  
