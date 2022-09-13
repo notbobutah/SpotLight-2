@@ -24,7 +24,6 @@ jobs:
       run: docker build server/src --file server/src/Dockerfile --tag spotlight-be  --tag latest
 
     - name: Configure AWS Credentials
-      run:
       uses: aws-actions/configure-aws-credentials@v1
       with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
