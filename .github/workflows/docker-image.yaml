@@ -17,4 +17,4 @@ jobs:
     - name: Build the Docker FE image
       run: docker build fe --file fe/Dockerfile --tag spotlight-fe  --tag latest
     - name: Build the Docker BE image
-      run: docker build server --file server/src/Dockerfile --tag spotlight-be  -tag latest
+      run: docker build server/src --file server/src/Dockerfile --tag spotlight-be  --tag latest
