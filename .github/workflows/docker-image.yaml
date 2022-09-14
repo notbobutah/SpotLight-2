@@ -47,21 +47,22 @@ jobs:
           BASE_ENDPOINT=https://${RELEASE_NAME}.${ENVIRONMENT_NAME}.chgapi.net
           ECR_REGISTRY=${{ steps.login-ecr.outputs.registry }}
           EKS_CLUSTER_NAME=spotlight-dev
-          REPOSITORY_NAME=spotlights
+          ECR_REPOSITORY_NAME=spotlights
           echo "FEATURE_ID=$FEATURE_ID" >> $GITHUB_ENV
           echo "PROJECT_NAME=$PROJECT_NAME" >> $GITHUB_ENV
           echo "RELEASE_NAME=$RELEASE_NAME" >> $GITHUB_ENV
           echo "BASE_ENDPOINT=$BASE_ENDPOINT" >> $GITHUB_ENV
           echo "EKS_CLUSTER_NAME=$EKS_CLUSTER_NAME" >> $GITHUB_ENV
           echo "ECR_REGISTRY=$ECR_REGISTRY" >> $GITHUB_ENV
+          echo "ECR_REPOSITORY_NAME=$ECR_REPOSITORY_NAME" >> $GITHUB_ENV
     - name: Create ECR Repository
       run: |
-          aws ecr create-repository --repository-name ${{ env.REPOSITORY_NAME }} || echo 'repository already created'
+          aws ecr create-repository --repository-name ${{ env.ECR_REPOSITORY_NAME }} || echo 'repository already created'
 
     - name: Wait For Repo to Exist
       timeout-minutes: 2
       run: |
-          while ! aws ecr describe-repositories --repository-names ${{ env.REPOSITORY_NAME }} > /dev/null; do sleep 5; done
+          while ! aws ecr describe-repositories --repository-names ${{ env.ECR_REPOSITORY_NAME }} > /dev/null; do sleep 5; done
 
     - name: Build, Tag, and Push BE Image to Amazon ECR
       run: |
