@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Feature Dev build deploy
 
 on:
   push:
@@ -32,7 +32,7 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
-          role-to-assume: ${{ secrets.NONPROD_ROLE_ARN }}
+          role-to-assume: arn:aws:iam:561246147461:root
           role-duration-seconds: 3600
 
     - name: Login to Amazon ECR
@@ -47,6 +47,7 @@ jobs:
           BASE_ENDPOINT=https://${RELEASE_NAME}.${ENVIRONMENT_NAME}.chgapi.net
           ECR_REGISTRY=${{ steps.login-ecr.outputs.registry }}
           EKS_CLUSTER_NAME=spotlight-dev
+          REPOSITORY_NAME=spotlights
           echo "FEATURE_ID=$FEATURE_ID" >> $GITHUB_ENV
           echo "PROJECT_NAME=$PROJECT_NAME" >> $GITHUB_ENV
           echo "RELEASE_NAME=$RELEASE_NAME" >> $GITHUB_ENV
@@ -55,12 +56,12 @@ jobs:
           echo "ECR_REGISTRY=$ECR_REGISTRY" >> $GITHUB_ENV
     - name: Create ECR Repository
       run: |
-          aws ecr create-repository --repository-name spotlights || echo 'repository already created'
+          aws ecr create-repository --repository-name ${{ env.REPOSITORY_NAME }} || echo 'repository already created'
 
     - name: Wait For Repo to Exist
       timeout-minutes: 2
       run: |
-          while ! aws ecr describe-repositories --repository-names spotlights > /dev/null; do sleep 5; done
+          while ! aws ecr describe-repositories --repository-names ${{ env.REPOSITORY_NAME }} > /dev/null; do sleep 5; done
 
     - name: Build, Tag, and Push BE Image to Amazon ECR
       run: |
