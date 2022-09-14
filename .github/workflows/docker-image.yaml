@@ -15,6 +15,9 @@ jobs:
       IMAGE_TAG: ${{ github.sha }}
       # AWS_SDK_LOAD_CONFIG: true
     steps:
+    - name: 'Fix permissions'
+      run: sudo -S chown -R $USER:$USER $GITHUB_WORKSPACE
+
     - uses: actions/checkout@v3
 
     - name: Setup Helm
@@ -66,18 +69,19 @@ jobs:
 
     - name: Build, Tag, and Push BE Image to Amazon ECR
       run: |
-          docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-be . --file server/src/Dockerfile --tag spotlight-be  --tag latest --build-arg NPM_TOKEN=${{ secrets.NPM_TOKEN }}
+          docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-be . --file server/src/Dockerfile --tag spotlight-be  --tag latest 
           docker tag spotlight-be:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-be 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-be
 
     - name: Build, Tag, and Push BE Image to Amazon ECR
       run: |
-          docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe fe --file fe/Dockerfile --tag spotlight-fe  --tag latest --build-arg NPM_TOKEN=${{ secrets.NPM_TOKEN }}
+          docker build -t ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe fe --file fe/Dockerfile --tag spotlight-fe  --tag latest 
           docker tag spotlight-fe:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
+          aws sts get-caller-identity
           aws eks --region us-west-2 update-kubeconfig --name ${{ env.EKS_CLUSTER_NAME }} 
           kubectl config view
 
