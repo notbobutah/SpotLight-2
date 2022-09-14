@@ -81,7 +81,17 @@ jobs:
           aws eks --region us-west-2 update-kubeconfig --name ${{ env.EKS_CLUSTER_NAME }} 
           kubectl config view
 
-   
+    - name: Test for existing release
+      run: |
+          kubectl get namespaces
+          helm list  \
+            | grep  "${{ env.RELEASE_NAME }}" \
+            | grep "failed" > /dev/null \
+            && echo "\033[0;31m
+              A prior helm install failed. This is preventing subsequent attempts from succeeding.
+              Please resolve the issue and delete the failed install with the following command before re-running the workflow:
+              helm delete ${{ env.PROJECT_NAME }} -n ${{ env.ENVIRONMENT_NAME }}
+              \033[0m"
     - name: Deploy BE Feature
       run: |
           helm upgrade ${{ env.RELEASE_NAME }} chart \
