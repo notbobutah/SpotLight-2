@@ -9,7 +9,6 @@ on:
 jobs:
 
   build:
-
     runs-on: ubuntu-latest
     env:
       ENVIRONMENT_NAME: default
@@ -33,7 +32,7 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
-          role-to-assume: arn:aws:iam::561246147461:role/eks-service-policy-role
+          role-to-assume:  arn:aws:iam::561246147461:role/eks-service-policy-role
           role-duration-seconds: 3600
 
     - name: Login to Amazon ECR
