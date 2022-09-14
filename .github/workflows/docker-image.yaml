@@ -81,7 +81,6 @@ jobs:
 
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
-          kubectl config current-context
           aws sts get-caller-identity
           aws eks update-kubeconfig --region us-west-2 --name ${{ env.EKS_CLUSTER_NAME }} 
           aws eks get-token --cluster-name  ${{ env.EKS_CLUSTER_NAME }} --region us-west-2
