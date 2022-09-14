@@ -13,7 +13,6 @@ jobs:
     env:
       ENVIRONMENT_NAME: default
       IMAGE_TAG: ${{ github.sha }}
-      # AWS_SDK_LOAD_CONFIG: true
     steps:
     - name: 'Fix permissions'
       run: sudo -S chown -R $USER:$USER $GITHUB_WORKSPACE
@@ -79,14 +78,16 @@ jobs:
           docker tag spotlight-fe:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
+    - name: Logout of Amazon ECR
+      if: always()
+      run: docker logout ${{ env.ECR_REGISTRY }}
+      
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
           aws sts get-caller-identity
           aws eks update-kubeconfig --region us-west-2 --name ${{ env.EKS_CLUSTER_NAME }}  --alias ${{ env.EKS_CLUSTER_NAME }}
           kubectl config use-context ${{ env.EKS_CLUSTER_NAME }}
-          kubectl config current-context
-          kubectl config view
-
+ 
     - name: Test for existing release
       run: |
           kubectl config use-context ${{ env.EKS_CLUSTER_NAME }}
@@ -127,10 +128,6 @@ jobs:
             --version ${{ env.HELM_CHARTS_VERSION }} \
             --debug \
             -f values.yaml
-
-    - name: Logout of Amazon ECR
-      if: always()
-      run: docker logout ${{ env.ECR_REGISTRY }}
 
     - name: Output Service URL(s)
       run: |
