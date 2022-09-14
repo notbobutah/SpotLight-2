@@ -86,7 +86,7 @@ jobs:
 
     - name: Test for existing release
       run: |
-          helm list -n ${{ env.ENVIRONMENT_NAME }} \
+          helm list  \
             | grep  "${{ env.RELEASE_NAME }}" \
             | grep "failed" > /dev/null \
             && echo "\033[0;31m
