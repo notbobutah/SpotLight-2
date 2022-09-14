@@ -76,10 +76,6 @@ jobs:
           docker tag spotlight-fe:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
-    - name: Logout of Amazon ECR
-      if: always()
-      run: docker logout ${{ env.ECR_REGISTRY }}
-
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
           aws eks --region us-west-2 update-kubeconfig --name ${{ env.EKS_CLUSTER_NAME }} 
@@ -121,6 +117,10 @@ jobs:
             --version ${{ env.HELM_CHARTS_VERSION }} \
             --debug \
             -f values.yaml
+
+    - name: Logout of Amazon ECR
+      if: always()
+      run: docker logout ${{ env.ECR_REGISTRY }}
 
     - name: Output Service URL(s)
       run: |
