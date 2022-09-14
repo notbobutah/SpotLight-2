@@ -80,7 +80,6 @@ jobs:
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
     - name: Update Kubernetes Configuration for Non-Prod Cluster
-      uses: ianbelcher/eks-kubectl-action@master
       run: |
           aws sts get-caller-identity
           aws eks update-kubeconfig --region us-west-2 --name ${{ env.EKS_CLUSTER_NAME }} 
