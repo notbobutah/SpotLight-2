@@ -84,6 +84,7 @@ jobs:
           kubectl config current-context
           aws sts get-caller-identity
           aws eks update-kubeconfig --region us-west-2 --name ${{ env.EKS_CLUSTER_NAME }} 
+          aws eks get-token --cluster-name  ${{ env.EKS_CLUSTER_NAME }} --region us-west-2
           kubectl config current-context
           kubectl config view
 
