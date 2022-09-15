@@ -94,10 +94,8 @@ jobs:
           aws sts get-caller-identity
           aws eks update-kubeconfig \
              --region us-west-2 \
-             --role-arn  arn:aws:iam::561246147461:role/eks-web-user-role \
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
-          kubectl config use-context ${{ env.EKS_CLUSTER_NAME }}
           kubectl config view --minify
  
     - name: Test for existing release
