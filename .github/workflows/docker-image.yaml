@@ -85,9 +85,9 @@ jobs:
           docker tag spotlight-fe:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
-    - name: Logout of Amazon ECR
-      if: always()
-      run: docker logout ${{ env.ECR_REGISTRY }}
+    # - name: Logout of Amazon ECR
+    #   if: always()
+    #   run: docker logout ${{ env.ECR_REGISTRY }}
       
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
@@ -100,8 +100,6 @@ jobs:
  
     - name: Test for existing release
       run: |
-          kubectl config use-context ${{ env.EKS_CLUSTER_NAME }}
-          kubectl config current-context
           helm list  \
             | grep  "${{ env.RELEASE_NAME }}" \
             | grep "failed" > /dev/null \
