@@ -31,8 +31,10 @@ jobs:
     - name: Setup kubectl
       uses: azure/setup-kubectl@v1
       id: setup-kubectl
+
 # oidc identity provider thumbprint      
 #6938fd4d98bab03faadb97b34396831e3780aea1
+
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1.7.0
       with:
