@@ -94,7 +94,6 @@ jobs:
           aws sts get-caller-identity
           aws eks update-kubeconfig \
              --region us-west-2 \
-             --name ${{ env.EKS_CLUSTER_NAME }} \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
           kubectl config view --minify
  
