@@ -96,10 +96,10 @@ jobs:
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
-          kubectl config view --minify
  
     - name: Test for existing release
       run: |
+          kubectl config view --minify
           helm list  \
             | grep  "${{ env.RELEASE_NAME }}" \
             | grep "failed" > /dev/null \
