@@ -101,6 +101,8 @@ jobs:
     - name: Test for existing release
       run: |
           kubectl config view --minify
+          kubectl get namespaces
+          kubectl get svc
           helm list  \
             | grep  "${{ env.RELEASE_NAME }}" \
             | grep "failed" > /dev/null \
