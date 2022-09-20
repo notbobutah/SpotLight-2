@@ -66,6 +66,7 @@ jobs:
           echo "ECR_REPOSITORY_NAME=$ECR_REPOSITORY_NAME" >> $GITHUB_ENV
     - name: Create ECR Repository
       run: |
+          aws sts get-caller-identity
           aws ecr create-repository --repository-name ${{ env.ECR_REPOSITORY_NAME }} || echo 'repository already created'
 
     - name: Wait For Repo to Exist
@@ -85,10 +86,20 @@ jobs:
           docker tag spotlight-fe:latest ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe 
           docker push ${{ env.ECR_REGISTRY }}/spotlights:${{ env.IMAGE_TAG }}-fe
 
-    # - name: Logout of Amazon ECR
-    #   if: always()
-    #   run: docker logout ${{ env.ECR_REGISTRY }}
-      
+    - name: Logout of Amazon ECR
+      if: always()
+      run: docker logout ${{ env.ECR_REGISTRY }}
+
+    - name: Update Kubernetes Configuration for Non-Prod Cluster
+      run: |
+          aws sts get-caller-identity
+          aws eks update-kubeconfig \
+             --name ${{ env.EKS_CLUSTER_NAME }} \
+             --region us-west-2 \
+             --alias ${{ env.EKS_CLUSTER_NAME }} 
+          kubectl config view   
+          kubectl get namespaces 
+
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
           aws sts get-caller-identity
