@@ -96,8 +96,8 @@ jobs:
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
-          while ! kubectl get namespaces > /dev/null; do sleep 15; done          
           helm version
+          kubectl get namespaces          
  
     - name: Test for existing release
       run: |
