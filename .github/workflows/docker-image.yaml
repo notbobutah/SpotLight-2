@@ -96,6 +96,7 @@ jobs:
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
+          helm version
  
     - name: Test for existing release
       run: |
