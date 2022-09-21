@@ -34,7 +34,7 @@ jobs:
 
 # oidc identity provider thumbprint      
 #6938fd4d98bab03faadb97b34396831e3780aea1
-
+# the keys used beloq comew from the repo secrets and id the IAM user spotlight
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1.7.0
       with:
@@ -98,17 +98,13 @@ jobs:
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
           kubectl config view   
-          kubectl get namespaces 
-
+          
     - name: Update Kubernetes Configuration for Non-Prod Cluster
       run: |
-          aws sts get-caller-identity
           aws eks update-kubeconfig \
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
-          helm version
-          kubectl get namespaces          
  
     - name: Test for existing release
       run: |
