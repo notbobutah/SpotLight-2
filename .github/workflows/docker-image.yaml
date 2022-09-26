@@ -99,8 +99,7 @@ jobs:
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
           kubectl config view --minify
-          # kubectl get namespaces
-          kubectl get svc
+          kubectl get namespaces
           
     - name: Test for existing release
       run: |
