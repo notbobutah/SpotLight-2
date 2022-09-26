@@ -41,8 +41,8 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
-          role-to-assume: arn:aws:iam::561246147461:role/eks-service-policy-role
-          # role-to-assume: arn:aws:iam::561246147461:role/eks-web-user-role
+          # role-to-assume: arn:aws:iam::561246147461:role/eks-service-policy-role
+          role-to-assume: arn:aws:iam::561246147461:role/eks-web-user-role
           role-duration-seconds: 3600
 
     - name: Login to Amazon ECR
@@ -98,20 +98,12 @@ jobs:
              --name ${{ env.EKS_CLUSTER_NAME }} \
              --region us-west-2 \
              --alias ${{ env.EKS_CLUSTER_NAME }} 
-          kubectl config view   
+          kubectl config view --minify
+          # kubectl get namespaces
+          kubectl get svc
           
-    - name: Update Kubernetes Configuration for Non-Prod Cluster
-      run: |
-          aws eks update-kubeconfig \
-             --name ${{ env.EKS_CLUSTER_NAME }} \
-             --region us-west-2 \
-             --alias ${{ env.EKS_CLUSTER_NAME }} 
- 
     - name: Test for existing release
       run: |
-          kubectl config view --minify
-          kubectl get namespaces
-          kubectl get svc
           helm list  \
             | grep  "${{ env.RELEASE_NAME }}" \
             | grep "failed" > /dev/null \
