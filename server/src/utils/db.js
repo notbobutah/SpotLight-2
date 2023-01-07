@@ -21,7 +21,7 @@ selectNodes = function() {
     return new Promise(async function(resolve, reject) {
         console.log('inside get all nodes db')
         let rtnArray = [];
-        await pool.query('SELECT * FROM nodes', async (error, results) => {
+        await pool.query('SELECT * FROM public.nodes', async (error, results) => {
                 if (error) {
                     await createDDL();
                     return;
@@ -44,7 +44,7 @@ selectConnectors  = function() {
     return new Promise(async function(resolve, reject) {
     console.log('inside get all connectorss db')
     let rtnArray = [];
-        await pool.query('SELECT * FROM connectors', async (error, results) => {
+        await pool.query('SELECT * FROM public.connectors', async (error, results) => {
             if (error) {
                 await this.createDDL();
                 return
@@ -65,7 +65,7 @@ selectDiagram = function(id) {
     return new Promise(async function(resolve, reject) {
         console.log('inside get single diagram db')
         let rtnArray = [];
-        await pool.query('SELECT * FROM diagrams WHERE id='+id, async (error, results) => {
+        await pool.query('SELECT * FROM public.diagrams WHERE id='+id, async (error, results) => {
                 if (error) {
                     console.log("error,id "+id+" not found.....")
                     return;
@@ -88,7 +88,7 @@ selectDiagrams = function() {
     return new Promise(async function(resolve, reject) {
         console.log('inside get all diagrams db')
         let rtnArray = [];
-        await pool.query('SELECT * FROM diagrams', async (error, results) => {
+        await pool.query('SELECT * FROM public.diagrams', async (error, results) => {
                 if (error) {
                     console.log("error, running create DDl......")
                     await createDDL();
@@ -110,7 +110,7 @@ selectDiagrams = function() {
 }
 const updateNode = (id, jsonBody) => {
     console.log('inside updare node db call:',jsonBody)
-    const text = 'UPDATE nodes SET nodebody=$1   WHERE id=$2'
+    const text = 'UPDATE public.nodes SET nodebody=$1   WHERE id=$2'
     const values = [jsonBody,id]
       pool.query(text, values, (error, results) => {
             if (error) {
@@ -137,7 +137,7 @@ const updateConnector = (id, jsonBody) => {
 }
 const updateDiagram = (id, jsonBody) => {
     console.log('inside updare diagram db call:',jsonBody)
-    const text = 'UPDATE diagrams SET dbody=$1   WHERE id=$2'
+    const text = 'UPDATE public.diagrams SET dbody=$1   WHERE id=$2'
     const values = [jsonBody,id]
       pool.query(text, values, (error, results) => {
             if (error) {
@@ -219,7 +219,7 @@ loadDiagramData = function () {
 initDB = async function () {
     await createDDL();
 
-    await pool.query('SELECT * FROM nodes', async (error, results) => {
+    await pool.query('SELECT * FROM public.nodes', async (error, results) => {
             if (error) {
                 throw error;
             }
@@ -227,7 +227,15 @@ initDB = async function () {
                 await loadData();
             }
         });
-        await pool.query('SELECT * FROM diagrams', async (error, results) => {
+        await pool.query('SELECT * FROM public.connectors', async (error, results) => {
+            if (error) {
+                throw error;
+            }
+            if(results.rows.length <= 0){
+                await loadData();
+            }
+        });
+        await pool.query('SELECT * FROM public.diagrams', async (error, results) => {
             if (error) {
                 throw error;
             }

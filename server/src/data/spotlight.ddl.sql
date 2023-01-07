@@ -1,9 +1,10 @@
-CREATE SEQUENCE IF NOT EXISTS  nodes_id_seq START 100;
+CREATE SEQUENCE IF NOT EXISTS nodes_id_seq START 100;
 CREATE SEQUENCE IF NOT EXISTS connectors_id_seq START 100;
 CREATE SEQUENCE IF NOT EXISTS diagram_id_seq START 100;
  
+
 -- Table: public.nodes
-CREATE TABLE IF NOT EXISTS nodes
+CREATE TABLE IF NOT EXISTS public.nodes
 (
     id integer NOT NULL DEFAULT nextval('nodes_id_seq'::regclass),
     nodebody json,
@@ -13,15 +14,16 @@ CREATE TABLE IF NOT EXISTS nodes
 );
 
 
-ALTER TABLE nodes
+ALTER TABLE public.nodes
     OWNER to postgres;
+
 
 COMMENT ON TABLE nodes
     IS 'storage for flow chart nodes';
 
  -- Table: public.connectors
 
-CREATE TABLE IF NOT EXISTS connectors
+CREATE TABLE IF NOT EXISTS public.connectors
 (
     id integer NOT NULL DEFAULT nextval('connectors_id_seq'::regclass),
     connectorbody json,
@@ -30,14 +32,15 @@ CREATE TABLE IF NOT EXISTS connectors
     CONSTRAINT connectors_pkey PRIMARY KEY (id)
 );
 
-ALTER TABLE connectors
+ALTER TABLE public.connectors
     OWNER to postgres;
+
 
 COMMENT ON TABLE connectors
     IS 'storage for connectors in the flow chart';   
 
     -- Table: public.diagrams
-CREATE TABLE IF NOT EXISTS diagrams
+CREATE TABLE IF NOT EXISTS public.diagrams
 (
     id integer NOT NULL DEFAULT nextval('diagram_id_seq'::regclass),
     dname varchar(256) ,
@@ -46,9 +49,10 @@ CREATE TABLE IF NOT EXISTS diagrams
 );
 
 
-ALTER TABLE diagrams
+ALTER TABLE public.diagrams
     OWNER to postgres;
 
 COMMENT ON TABLE diagrams
     IS 'storage for flow chart diagrams';
+
  
